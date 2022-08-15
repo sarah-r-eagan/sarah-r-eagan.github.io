@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew R. Johnson | NeurophysiCole</title>
+    <link>/author/matthew-r.-johnson/</link>
+      <atom:link href="/author/matthew-r.-johnson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew R. Johnson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <image>
+      <url>/media/neurophysicole_logo</url>
+      <title>Matthew R. Johnson</title>
+      <link>/author/matthew-r.-johnson/</link>
+    </image>
+    
+  </channel>
+</rss>

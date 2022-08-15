@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web development | NeurophysiCole</title>
+    <link>/tag/web-development/</link>
+      <atom:link href="/tag/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>web development</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/npc_logo</url>
+      <title>web development</title>
+      <link>/tag/web-development/</link>
+    </image>
+    
+    <item>
+      <title>A Noob Perspective on Building a Website</title>
+      <link>/post/a-noobs-perspective-on-building-a-website_for-noobs/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/a-noobs-perspective-on-building-a-website_for-noobs/</guid>
+      <description>&lt;p&gt;So, I have setup two websites of my own in addition to developing a couple of other professional websites, but I am certainly not an expert (definitely feel more like a noob than anything). At this point I have established enough of a baseline knowledge of how this all works, so I figured I would share with the world what I have learned, pass along some recommendations, and provide some walk-throughs of what you need to know to build your own website!&lt;/p&gt;
+&lt;h2 id=&#34;the-story&#34;&gt;The Story&lt;/h2&gt;
+&lt;p&gt;So the story here is that a couple of years ago I decided build my own personal website to increase the visibility of my research, and to provide a platform for sharing my knowledge/thoughts/ideas with the world! Having cut my teeth in web development using 
+&lt;a href=&#34;https://www.elegantthemes.com/gallery/divi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Divi&lt;/a&gt; on 
+&lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wordpress&lt;/a&gt; (if you don&amp;rsquo;t know what I am talking about here, I&amp;rsquo;ll get to it), I figured I would try and stick with what I knew. I decided to use a free theme on 
+&lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wordpress&lt;/a&gt;. It was fun to build the site, and I was able to design it exactly as I wanted, but in the end, adding content and updating the site became quite a ponderous task - which isn&amp;rsquo;t great when your spare time is limited! So, after a while the website was basically dormant, which didn&amp;rsquo;t sit well with me.. but working on it was such as hassle! Boo!&lt;/p&gt;
+&lt;p&gt;In my mind, my website is supposed to be a side project that is part fun and interesting, part professional development, and part something I can do when I don&amp;rsquo;t want to think &lt;em&gt;tooooo&lt;/em&gt; hard. Sometimes I need a brain-break, but I can&amp;rsquo;t (or don&amp;rsquo;t want to) totally shut off, you know what I mean? But with how my initial website was designed, it took a great deal of effort to remember how all of the pieces fit together, and how to even add content like I wanted to..&lt;/p&gt;
+&lt;p&gt;* &lt;em&gt;Quick note&lt;/em&gt;: This is not a post to bash 
+&lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wordpress&lt;/a&gt; websites. I know how some of you peeps think, and I just want to get out ahead of that type of thought! This post is only meant to describe my personal knowledge and experience, which certainly is the end-all be-all.&lt;/p&gt;
+&lt;p&gt;Anyways, after a while of being fed up, and after having a little more spare time than usual (kind of), I decided to go the route of building a website using 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt;. Having recently (within the last year or two) discovered 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;, and the wonders of Git (if you don&amp;rsquo;t know what I am talking about, here is a link to the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git Wikipedia page&lt;/a&gt;). I recently discovered that you could build a website on 
+&lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; and immediately thought that this would be a much more manageable and fun way to build and maintain my website. Now, all of my wbepages are built in Markdown (which I love), and just pushed straight from my computer to the 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; repository hosting the site. At this point it is still pretty early, but I think I have found what I am looking for!&lt;/p&gt;
+&lt;h3 id=&#34;lessons-i-learned&#34;&gt;Lessons I Learned&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Point-and-click websites can be fun and easy (kind of) to build, but are a pain to maintain and update (at least in my experience).&lt;/li&gt;
+&lt;li&gt;Point-and-click can come with unexpected expenses, especially if you are interested in plugins or widgets that come with a cost.&lt;/li&gt;
+&lt;li&gt;You don&amp;rsquo;t need a ton of technical expertise to build a good website, whether it is developed using point-and-click or more traditional programming methods.&lt;/li&gt;
+&lt;li&gt;Whatever you do or buy, research it beforehand! And while doing your research, look up to see how helpful the community resources are! No matter what route you go, you&amp;rsquo;re bound to run into problems, and generally, if you choose carefully, you&amp;rsquo;ll be building on a platform that is well documented and has an active community.&lt;/li&gt;
+&lt;li&gt;It can be free, it can be cheap, or it can be pricey, and that is completely up to you!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;walk-throughs&#34;&gt;Walk-Throughs&lt;/h2&gt;
+&lt;p&gt;Okay, enough with the story telling. In order to keep the information load manageable and organized, I have provided links below to walk-throughs outlining what I have done to develop sites in the past, and what I am currently doing.&lt;/p&gt;
+&lt;h4 id=&#34;building-a-site-using-wordpresspostwordpress-blog&#34;&gt;
+&lt;a href=&#34;/post/wordpress-blog/&#34;&gt;Building a Site Using WordPress&lt;/a&gt;&lt;/h4&gt;
+&lt;h5 id=&#34;pros&#34;&gt;Pros&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Absolutely zero technical/programming expertise needed.&lt;/li&gt;
+&lt;li&gt;Lots of resources for help.&lt;/li&gt;
+&lt;li&gt;A lot of widgets/plugins to build a custom site.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;cons&#34;&gt;Cons&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Can get spendy.&lt;/li&gt;
+&lt;li&gt;Ponderous to maintain and update.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;building-a-site-using-github-pagespostgithub-blog&#34;&gt;
+&lt;a href=&#34;/post/github-blog/&#34;&gt;Building a Site using GitHub Pages&lt;/a&gt;&lt;/h4&gt;
+&lt;h5 id=&#34;pros-1&#34;&gt;Pros&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy to update.&lt;/li&gt;
+&lt;li&gt;Cheap (or free).&lt;/li&gt;
+&lt;li&gt;Uses Git!&lt;/li&gt;
+&lt;li&gt;Lots of documentation.&lt;/li&gt;
+&lt;li&gt;No need to fester and tinker with general formatting!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;cons-1&#34;&gt;Cons&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Requires some basic knowledge of Markdown (if you don&amp;rsquo;t know what this is, here is a link to the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown Wikipedia page&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Requires an understanding of how Git works.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building a Website Using Git Pages</title>
+      <link>/post/github-blog/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/github-blog/</guid>
+      <description>&lt;p&gt;This method requires a basic understanding of how Git works, and how Markdown works. These aren&amp;rsquo;t super complex systems, but definitely come with a little bit of a learning curve. This is a place to get started, and from here it will just take time to get a handle on everything. In the end, if you are in academia or writing, or if you are doing any remotely technical work, understanding Git and understanding Markdown will actually pay off for you bigtime in the end! I &lt;strong&gt;highly&lt;/strong&gt; recommend this approach!&lt;/p&gt;
+&lt;h2 id=&#34;github-pages&#34;&gt;GitHub Pages&lt;/h2&gt;
+&lt;p&gt;So, the appraoch that I am pushing here is 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt;. Doing this, your domain is setup and your content is hosted. If you want, you can still setup your own domain name, but you don&amp;rsquo;t have to (the domain will default to username.github.io). The framework that I use and will be describing is 
+&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;. The 
+&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; theme that I will be describing is 
+&lt;a href=&#34;https://themes.gohugo.io/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;. The whole thing is managed by pushing to a 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; repository.&lt;/p&gt;
+&lt;h2 id=&#34;domain-name&#34;&gt;Domain Name&lt;/h2&gt;
+&lt;p&gt;To start, we will be discussing domain name options. As I mentioned above, using 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt;, you don&amp;rsquo;t have to do anything to setup a domain name, but you can. Having a domain essentially means that you own a web address. For instance, my domain is 
+&lt;a href=&#34;neurophysicole.com&#34;&gt;neurophysicole.com&lt;/a&gt;. If you follow the link, you&amp;rsquo;ll notice though that the web address changes to &lt;code&gt;neurophysicole.github.io&lt;/code&gt;. This is essentially because I didn&amp;rsquo;t want to bother with the process of getting that to change. I setup the domain to forward. This way, I can tell people to go to &lt;code&gt;neurophysicole.com&lt;/code&gt; rather than &lt;code&gt;neurophysicole.github.io&lt;/code&gt;, which is a little more ponderous (neurophysicole is already long and crazy enough!). Now, just because I am just using a forwarding address, doesn&amp;rsquo;t mean you can&amp;rsquo;t explicitly attach your domain to your website. I may eventually fully replace the github.io domain, but at the moment I am not really inspired to go down that rabbit hole. For more information on how to do that, check this 
+&lt;a href=&#34;https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages documentation&lt;/a&gt; page outlining the process.&lt;/p&gt;
+&lt;p&gt;The additional perk to having a domain is that I have an email address attached. In the past 5 or 6 years, I have been at three universities. And I plan to move on to a new one in the next few years! My email is constantly changing! So, I figure this is a good way to keep a consistent email. &lt;strong&gt;Note:&lt;/strong&gt; I don&amp;rsquo;t actually have the email setup, I have an email address attached to my domain that forwards to whatever email I am using as my primary at the time. It is so easy to setup and I feel like the payoff is totally worth it!&lt;/p&gt;
+&lt;p&gt;Setting up a domain is very easy. I only have experience doing it through one service: 
+&lt;a href=&#34;https://www.hover.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hover&lt;/a&gt;. The customer service is great, and the interface is incredibly easy to use. Setting up the additional domain name means that this is no longer a free option. The price for my domain was reasonable, and the additional price for the email forwarding was cheap, so altogether, it seems like a solid payoff for me.&lt;/p&gt;
+&lt;h2 id=&#34;git&#34;&gt;Git&lt;/h2&gt;
+&lt;p&gt;So, the website is hosted on 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. This means that if you do not already have a 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; account, you need to set one up. GitHub has moved everything to free accounts, so setting up your page is totally free! Once you create an account, you need to create a repository (sometimes referred to as a &amp;lsquo;repo&amp;rsquo;) named &amp;lsquo;&lt;code&gt;your username&lt;/code&gt;.github.io&amp;rsquo;. Initialize it with a README. Now, your site is up and running! &amp;hellip; But empty.&lt;/p&gt;
+&lt;p&gt;* &lt;strong&gt;Note:&lt;/strong&gt; Going from here, you kinda need to know how Git works. If you are lost with that, I would recommend looking at the resources available on 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; or elsewhere on the internet.&lt;/p&gt;
+&lt;p&gt;Something else we should do while we&amp;rsquo;re on 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; is to setup another repo. You can name this one whatever you want. For example, mine is &lt;code&gt;z_site&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Okay, now that you have the repos setup online, it is time to take advantage of the beauty of Git! Clone your repos to your computer. (This is a very basic Git process, so I am not going to explain &amp;ndash; but there are tons of reources on 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; and other great blogs I am sure..)&lt;/p&gt;
+&lt;h2 id=&#34;rmarkdown&#34;&gt;RMarkdown&lt;/h2&gt;
+&lt;p&gt;Now we are going to divert real quick to the 
+&lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMarkdown&lt;/a&gt; stuff, but will come back to the Git stuff right after. Order is important here, so I would just recommend following along. So, if you aren&amp;rsquo;t familiar with Markdown, here is a link to the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown Wikipedia page&lt;/a&gt;. Essentially, it is a way to create a document without having to really worry about formatting. Additionally, it is a document type that works well for blogs. For instance, this post was written entirely in a Markdown document.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMarkdown&lt;/a&gt; is a form of Markdown that is built within the open-source software 
+&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;. The reason we use 
+&lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMarkdown&lt;/a&gt; is because there are packages that 
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; needs to function. So, if you don&amp;rsquo;t have 
+&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;, or don&amp;rsquo;t know how to use 
+&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;, you are probably going to have a bit of a curve here, but I&amp;rsquo;ll try and help.&lt;/p&gt;
+&lt;p&gt;So, if we&amp;rsquo;re starting from scratch, you&amp;rsquo;ll want to download 
+&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;. After that, download 
+&lt;a href=&#34;https://rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Studio&lt;/a&gt;. Now, in 
+&lt;a href=&#34;https://rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Studio&lt;/a&gt;, enter the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;install.packages(&#39;blogdown&#39;)&lt;/code&gt; &amp;lt;- installs the main package that we&amp;rsquo;ll be working from: 
+&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blogdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;In 
+&lt;a href=&#34;https://rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Studio&lt;/a&gt;, select &lt;code&gt;File&lt;/code&gt; &amp;gt; &lt;code&gt;New Project&lt;/code&gt;
+&lt;ul&gt;
+&lt;li&gt;Select &lt;code&gt;New Directory&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Select &lt;code&gt;Website using blogdown&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Name the folder you want to make your site in (I&amp;rsquo;d recommend making it the same name as your main website repo - whatever it is. e.g., &lt;code&gt;username.github.io&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Create your site in the sub-directory of the &lt;code&gt;z_site&lt;/code&gt; repo you made (or, whatever you decided to name it)&lt;/li&gt;
+&lt;li&gt;Select &lt;code&gt;Install Hugo automatically&lt;/code&gt;, &lt;code&gt;Add sample blog posts&lt;/code&gt;, &lt;code&gt;Add the example site of the theme&lt;/code&gt;, &lt;code&gt;Convert all metadata to YAML&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;For the Hugo theme: input &lt;code&gt;gcushen/hugo-academic&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;library(&#39;blogdown&#39;)&lt;/code&gt; &amp;lt;&amp;ndash; activates the package&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;blogdown::serve_site()&lt;/code&gt; &amp;lt;&amp;ndash; activates a local server so you can see your website! Run this line whenever you want to see your changes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now you should see the site you are working with in the Viewer! What you are viewing is a template, but it helps to see what is there. You can choose to edit the existing content, or you can create your own content. The example site is one page, but you can add others by adding folders in your site with an &lt;code&gt;index.md&lt;/code&gt; file (name the folder what you want the page to be named). If you want to have a link in the menu on the top bar of your website, update the &lt;code&gt;config&lt;/code&gt; &amp;gt; &lt;code&gt;default&lt;/code&gt; &amp;gt; &lt;code&gt;menus.toml&lt;/code&gt;. While we&amp;rsquo;re in this folder, keep in mind, the &lt;code&gt;.toml&lt;/code&gt; files in this folder set the basic settings for the entire website. Feel free to explore. For more information, check 
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You have the freedom now to do what you want! After making a change, enter &lt;code&gt;blogdown::serve_site()&lt;/code&gt; to see what it will look like!&lt;/p&gt;
+&lt;h2 id=&#34;hugo-vs-jekyll&#34;&gt;Hugo vs. Jekyll&lt;/h2&gt;
+&lt;p&gt;Like I said earlier, I use a 
+&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; framework. If you look at the 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt; documentation, that system is built mainly to work with a 
+&lt;a href=&#34;https://jekyllrb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jekyll&lt;/a&gt; framework. This makes things a little tricky, but we&amp;rsquo;ll work it out here.&lt;/p&gt;
+&lt;p&gt;It is worth noting that this is the point in the development of my own site that I ran into the most issues. I had been working off of a couple of other blogs describing what they had done, and that kind of led me astray. I think in the end, whatever they did worked for them, but it was either outdated information, or I just wasn&amp;rsquo;t able to replicate it for some reason. There are multiple solutions to this issue of getting the 
+&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; framework to play nice with 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;, I think what I have come up with seems to work really well, and is really easy to maintain.&lt;/p&gt;
+&lt;p&gt;Now, we have to get our site online. In the file structure of your website, there is a &lt;code&gt;public&lt;/code&gt; folder. 
+&lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMarkdown&lt;/a&gt; converts the .md (Markdown) files into .html (I think), and these converted files are stored in the &lt;code&gt;public&lt;/code&gt; folder. This is what we need to get on your &lt;code&gt;username.github.io&lt;/code&gt; repo. If we do this properly, we&amp;rsquo;ll have your site up and running shortly! So, what we need to do is copy the files from the folder made when you cloned your &lt;code&gt;username.github.io&lt;/code&gt; repo to your computer. There should be a README, and one or two hidden files (e.g., &lt;code&gt;.git&lt;/code&gt;). The important ones are the hidden files. There is more than one way to do this. I am using a Mac, so if you are using a PC, things might be a little wonky. But I think you can set your file explorer settings to show hidden files, then you can just copy over the files. If you are using a Mac, I recommend the using the following code in the Terminal app:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;cp -a folder_path/username.github.io_folder/.* folder_path/z_site_folder/username.github.io_Rmarkdown_website_folder/public/&lt;/code&gt; &amp;lt;&amp;ndash; moves the website repo into the public folder (this is what we need for the website to work)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cp -a folder_path/username.github.io_folder/* folder_path/z_site_folder/username.github.io_Rmarkdown_website_folder/public/&lt;/code&gt; &amp;lt;&amp;ndash; moves the README, and any other files you have created, into the public folder&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;rm -rf folder_path/username.github.io_folder&lt;/code&gt; &amp;lt;&amp;ndash; removes old cloned repo - we don&amp;rsquo;t need it anymore&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To check that we are all good, you can check the status of your repo by entering the following lines in the Terminal app:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;cd folder_path/username.github.io_folder&lt;/code&gt; &amp;lt;&amp;ndash; moves into the secondary (&lt;code&gt;z_site&lt;/code&gt;) repo folder&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git status&lt;/code&gt; &amp;lt;&amp;ndash; should bring up the files that were added to the folder&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cd public&lt;/code&gt; &amp;lt;&amp;ndash; moves into the main website repo folder (this can be kinda confusing, but it is the &lt;code&gt;username.github.io&lt;/code&gt; repo)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git status&lt;/code&gt; &amp;lt;&amp;ndash; should bring up the files that were added to this folder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So, as a quick recap before we go live with the website. We have created our site in 
+&lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMarkdown&lt;/a&gt;, then we have moved it into the secondary repo folder (mine is called &lt;code&gt;z_site&lt;/code&gt;), then we copied the files from our main repo into the &lt;code&gt;public&lt;/code&gt; folder created by the website. This public folder contains the files we want in the repo that we originally setup for our website. So, this means now that we have a repo-inception where we have the secondary repo containing all of our files (&lt;code&gt;z_site&lt;/code&gt;), and we have the main repo (&lt;code&gt;username.github.io&lt;/code&gt;) within that repo. Although we have this repo-inception going on, we still have to update both repos. If you use a Git software, you can use that, but if you want to do it in the Terminal app, use the following code:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;cd folder_path/username.github.io_folder&lt;/code&gt; &amp;lt;&amp;ndash; moves into the secondary (&lt;code&gt;z_site&lt;/code&gt;) repo folder&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git add .&lt;/code&gt; &amp;lt;&amp;ndash; adds everything to the queue to be committed&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git commit -am &amp;quot;Log what you did here.&amp;quot;&lt;/code&gt; &amp;lt;&amp;ndash; compiles and commits all of the changes&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git push origin master&lt;/code&gt; &amp;lt;&amp;ndash; pushes your changes to the secondary repo&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cd public&lt;/code&gt; &amp;lt;&amp;ndash; moves into the main website repo folder&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git add .&lt;/code&gt; &amp;lt;&amp;ndash; adds everything to the queue to be committed&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git commit -am &amp;quot;Log what you did here. Can be the same message as the other commit.&amp;quot;&lt;/code&gt; &amp;lt;&amp;ndash; compiles and commits all of the changes&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git push origin master&lt;/code&gt; &amp;lt;&amp;ndash; pushes your changes to the main website repo - your site should be online now!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Yay! We should be all good now! Now, just remember that in order for your changes to be expressed on the website, you have to run the following code in 
+&lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RMarkdown&lt;/a&gt;: &lt;code&gt;blogdown::serve_site()&lt;/code&gt; so the .md files are converted to the .html files and moved into the &lt;code&gt;public&lt;/code&gt; folder.&lt;/p&gt;
+&lt;p&gt;Now that we&amp;rsquo;re here, I have something to share with you, and don&amp;rsquo;t be mad.. but I promise the stuff we just did was the best way to go. Now, if you don&amp;rsquo;t want to deal with two repos, you can just create a repo for the &lt;code&gt;public&lt;/code&gt; folder, and not worry about the secondary repo. The reason I like to roll with two repos is that if anything happens with the content outside of the public folder, your whole wesbite is lost (or, at least incapable of being updated). Having that Git repo is bigtime! That is the beauty of Git! Use it!!&lt;/p&gt;
+&lt;h2 id=&#34;updating-your-site&#34;&gt;Updating Your Site&lt;/h2&gt;
+&lt;p&gt;You&amp;rsquo;re setup now! Make it yours. Spend some time reading through the 
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic documentation&lt;/a&gt;, get familiar with the file system and how it works. Customize the things you need for the site to be yours! Or don&amp;rsquo;t, that&amp;rsquo;s up to you! As part of your initial development process, I would recommend that you build templates for your posts. You will save time by just copying the files into the folder that you need, updating the YAML header, and adding in the content that you want. And I would recommend looking at the Hugo example when you are trying to figure out how to do something. At this point, it&amp;rsquo;s all yours. Have fun with it. Good luck!&lt;/p&gt;
+&lt;h2 id=&#34;point-and-click-using-wordpress&#34;&gt;Point-and-Click Using WordPress&lt;/h2&gt;
+&lt;p&gt;There is so much that I just cannot cover, it really is just best to look at the relevant documentation. I think I wasted probably ~6 hours trying to get things working because I was working off of some blogs that were misleading (hopefully I don&amp;rsquo;t do that to you!), so although it is nice to get the information condensed from blogs and such, it is probably best just to go straight to the source. Also, the 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages documentation&lt;/a&gt; and the 
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo-Academic documentation&lt;/a&gt; is pretty great! If you have gotten to this point, and you think that maybe this is not the route for you to take, checkout my other blog outlining what you need to know to setup a blog site using 
+&lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;, and some advice based on what I have done in the past: 
+&lt;a href=&#34;/post/wordpress-blog/&#34;&gt;Building a Website Using WordPress&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building a Website Using WordPress</title>
+      <link>/post/wordpress-blog/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/wordpress-blog/</guid>
+      <description>&lt;p&gt;Despite this method requiring no real technical/programming expertise, there is still a learning curve. The following is a guide to help you through the process:&lt;/p&gt;
+&lt;h2 id=&#34;domain-name&#34;&gt;Domain Name&lt;/h2&gt;
+&lt;p&gt;First, you will have to find yourself a domain name. Obviously, go with something that is relevant, easy to remember, and hopefully easy to spell (say that again, slowly&amp;hellip;then spell neurophysicole..haha). Something that I did learn, was that if you are able to attach your website to another highly trafficked website, your page will be more likely to show up in Google searches and such. For example, if your University offers blog space, you could create your own attached url (e.g., blogname.university.edu). The university may give some push-back if you choose to go with blogname.university.edu, and may try to push you more towards a university.edu/blogname url (saying this from experience). Either way, it is still generally recommended that you use the university resources if possible. This will save you money, and probably help with the visibility of your website.&lt;/p&gt;
+&lt;p&gt;In the end, if you are not satisfied with your domain name, you can purchase a domain and set it to forward to your university url. This way you can still advertise your website as you would like, but can save time/money/effort in setting up hosting and other things. It just makes more sense.&lt;/p&gt;
+&lt;p&gt;When purchasing a domain, there are a variety of options. I am not an expert, but in my discussions with individuals who seem to know what they are talking about, 
+&lt;a href=&#34;https://www.hover.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hover&lt;/a&gt; has been the most highly recommended company to go through. In my experience, 
+&lt;a href=&#34;https://www.hover.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hover&lt;/a&gt; has been great with customer support and their system is relatively simple to use (I don&amp;rsquo;t have experience with other companies, so I cannot speak too much in comparison, but I have heard some negative things about other popular options).&lt;/p&gt;
+&lt;h2 id=&#34;hosting&#34;&gt;Hosting&lt;/h2&gt;
+&lt;p&gt;Second, if you are not using an already established site (i.e., using a university or company url), you will need to setup a hosting option. This is something that I was completely unaware of going in, and I think is probably where the majority of your cost will be (often times these hosting companies offer a really cheap Year 1 price, then hike it up bigtime for Year 2, and so on). You might be asking yourself, what is hosting and why do I need it?? Well, web hosts essentially provide space on a server to hold all of the content of your website. Think of purchasing web hosting as purchasing space on a hard drive where your website will be stored. Additionally, hosts will provide tools for screening your site for viruses, provide email options, and other things (that I cannot think of off of the top of my head).&lt;/p&gt;
+&lt;p&gt;Things to consider when selecting a host are their reputation as far as how fast your website loads, and how reliable it will be (how often your site will crash). Things that matter are how much traffic you expect to have to your website, and how much information you plan to store on your site (including email). You&amp;rsquo;ll have to look at the hosts themselves to know for sure how your needs will affect cost. As far as I know, there are two main differences between hosts: (1) Some provide you with your own section on a server, others offer shared space on a server. The shared server will work fine for smaller sites (personal, or maybe even for your average research lab), but they are &lt;em&gt;more&lt;/em&gt; likely to have issues as far as crashing and slowdowns are concerned; (2) Shared services are cheaper.&lt;/p&gt;
+&lt;p&gt;As far as a recommendation goes, I think the most highly rated options are 
+&lt;a href=&#34;https://www.bluehost.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BlueHost&lt;/a&gt; and 
+&lt;a href=&#34;https://www.siteground.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SiteGround&lt;/a&gt;. I personally have used 
+&lt;a href=&#34;https://www.siteground.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SiteGround&lt;/a&gt;, and their service was great. The user interface is admittedly not-at-all intuitive (probably the worst user interface I have ever used..). Fortunately, I did not have to check it often, but setting everything up was a little more difficult than I would have liked. Overall, I was very happy with the service, but like I have said in the past, I do not have any reference for comparison, so other options could very well be just as viable, or better/easier to use.&lt;/p&gt;
+&lt;h2 id=&#34;content-management&#34;&gt;Content Management&lt;/h2&gt;
+&lt;p&gt;Third, you will have to make a decision regarding content management. I tend to think of this as the operating system for your website. There are numerous options, but the overwhelming majority of the internet is built on 
+&lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;. As such, it is fairly easy to find support when developing a website using 
+&lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;. I cannot speak to the other systems, but I would say if you not an experienced web-developer, and are not trying to become an expert, 
+&lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt; is probably a good way to go. Everything that I discuss from here-on-out will be within the context of a 
+&lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt; environment.&lt;/p&gt;
+&lt;h2 id=&#34;wordpress-theme&#34;&gt;WordPress Theme&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wordpress&lt;/a&gt; themes are essentially the template that you will use to build your website around (color scheme, layout, basic features, etc.). Each theme has its own preset structure, and they all vary in their additional features and support. Things to consider when choosing a theme are (of course) the layout, cost, and the support. There are free themes, and there are $$ themes. Anyone can develop a theme. As such, some random person or small group (more likely to be open source) is less likely to provide long-term support for their theme, as compared to some of the more popular options.&lt;/p&gt;
+&lt;p&gt;That being said, I believe that 
+&lt;a href=&#34;https://www.elegantthemes.com/gallery/divi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Divi&lt;/a&gt; is probably the most popular theme chosen for 
+&lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;. This is not an open source theme, but is very easy to use. You do not have to know how to program (for the most part, at least), and there are a lot of options for your layout. Furthermore, 
+&lt;a href=&#34;https://www.elegantthemes.com/gallery/divi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Divi&lt;/a&gt; is very well supported, and there are a lot of easy to find solutions for common problems. Finally, 
+&lt;a href=&#34;https://www.elegantthemes.com/gallery/divi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Divi&lt;/a&gt; comes with a ton of built-in widgets and plugins that are often updated. If cost is not an object (at least on this level), then I would highly recommend going with 
+&lt;a href=&#34;https://www.elegantthemes.com/gallery/divi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Divi&lt;/a&gt; for your website.&lt;/p&gt;
+&lt;p&gt;For my own website, I decided to try something open source (if you aren&amp;rsquo;t sure what I am talking about when I mention &amp;lsquo;open source&amp;rsquo;, check out the 
+&lt;a href=&#34;https://opensource.com/resources/what-open-source&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenSource website&lt;/a&gt;). After quite a bit of research, and some trial-and-error, I decided to go with 
+&lt;a href=&#34;https://oceanwp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OceanWP&lt;/a&gt;. This theme has provided me with the flexibility I needed to customize the features I am particular about, uses a GUI base (not requiring programming skills), appears to be fairly well-supported, and is compatible with a lot of great plugins!&lt;/p&gt;
+&lt;h2 id=&#34;plugins&#34;&gt;Plugins&lt;/h2&gt;
+&lt;p&gt;Fourth, if you did not (or do not intend to) purchase 
+&lt;a href=&#34;https://www.elegantthemes.com/gallery/divi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Divi&lt;/a&gt;, you will probably require some plugins to get your website functioning as you would like to (I did, at least). Things to think about for plugins are generally the same as the themes. Things that plugins can be useful for are organizing your site and the working environment, and any other specialized customization you might want to attempt. The plugins that I used are 
+&lt;a href=&#34;https://elementor.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elementor&lt;/a&gt; (for a more advanced GUI based working environment for developing the website), 
+&lt;a href=&#34;https://www.contentviewspro.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Content Views&lt;/a&gt; (to organize my blog layout), 
+&lt;a href=&#34;https://www.blog2social.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog2Social&lt;/a&gt; (to automatically share my posts to my attached social media). These will require some research on your own, depending on what you want your site to be capable of.. but I would recommend these as a starting point.&lt;/p&gt;
+&lt;h2 id=&#34;developing-your-site&#34;&gt;Developing Your Site&lt;/h2&gt;
+&lt;p&gt;Fifth, now you have to develop your website. This is the fun part! Anyways, as a general principle I would recommend (as it was recommended to me) to create the parts of your site that will be updated by making them blog posts (this way they can be developed in one place, organized, and added automatically). Second, work with templates! Everything will be easier, especially if you are developing a blog such as this one, if you just have a general template you work with, making minor tweaks here and there. Along these lines, I would recommend working with the layout of the site as much as possible. The more you try and change the layout, the more difficult it will be to develop and maintain. Furthermore, if you are a person that does not have a lot of undedicated free time, you are probably not going to be able to continually update your site - and if you do have the time, I&amp;rsquo;m sure it will get old at some point. The point is, once your site is developed, you are just going to want to add content. If you have to keep making adjustments, the addition of content just isn&amp;rsquo;t going to happen (a) because you don&amp;rsquo;t have the time, and/or (b) because you&amp;rsquo;re tired of working on your site and do not want to do it. (I have experienced both).&lt;/p&gt;
+&lt;h2 id=&#34;using-github-pages&#34;&gt;Using GitHub Pages&lt;/h2&gt;
+&lt;p&gt;Okay, all that should get you through the basics of building your own blog site. All this said, I personally prefer to build my site using 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt; and Git. For this reason, and also because 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt; is an effective no-cost option, I completely re-built my website into what it is now using 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt;. That said, there are other point-and-click no-cost options, but the opions I came across just weren&amp;rsquo;t what I wanted. This 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt; option is free, and I just like it better! I am generally a &amp;ldquo;you get what you pay for&amp;rdquo; guy, but here, I think I have found a possible exception (in my case, it seems more like a &amp;ldquo;you get out what you put in&amp;rdquo; situation). To see how I re-built my website using 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt;, check out this blog post: 
+&lt;a href=&#34;/post/github-blog/&#34;&gt;Building a Website Using Git Pages&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

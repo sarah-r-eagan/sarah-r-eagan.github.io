@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>announcement tag | NeurophysiCole</title>
+    <link>/tag/announcement-tag/</link>
+      <atom:link href="/tag/announcement-tag/index.xml" rel="self" type="application/rss+xml" />
+    <description>announcement tag</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/npc_logo</url>
+      <title>announcement tag</title>
+      <link>/tag/announcement-tag/</link>
+    </image>
+    
+    <item>
+      <title>Announcement Title</title>
+      <link>/news/gc_aussie_interview/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/news/gc_aussie_interview/</guid>
+      <description>&lt;p&gt;The body of the announcement..&lt;/p&gt;
+&lt;h2 id=&#34;press-release&#34;&gt;Press Release&lt;/h2&gt;
+&lt;p&gt;If there is a press release assoaciated with the news, can update here..&lt;/p&gt;
+&lt;h2 id=&#34;associated-project&#34;&gt;Associated Project&lt;/h2&gt;
+&lt;p&gt;If there is a project associated with the announcement, can post a link here to the project page.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

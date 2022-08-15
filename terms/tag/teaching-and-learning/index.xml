@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching and Learning | NeurophysiCole</title>
+    <link>/tag/teaching-and-learning/</link>
+      <atom:link href="/tag/teaching-and-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching and Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/npc_logo</url>
+      <title>Teaching and Learning</title>
+      <link>/tag/teaching-and-learning/</link>
+    </image>
+    
+    <item>
+      <title>PURSUE</title>
+      <link>/project/pursue/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/pursue/</guid>
+      <description>&lt;p&gt;Many young adults who attend a university do so with the hope of identifying and/or pursuing a career, sometimes their dream! For many, that dream is to be a scientist! In many instances, the dreams of these students are limited by the resources available to them, through the university, or otherwise. For this reason, the Preparing Undergraduates for Research in Stem-related fields using Electrophysiology (PURSUE) program was developed. PURSUE is meant to provide students at universities that are not capable of providing students with experience in a cognitive neuroscience laboratory (particularly EEG) a chance to get hands on experience going through tutorials covering every phase of an EEG experiment, designing an ERP study and analyzing data from a database. These experiences are valuable to undergradaute students in that hadns-on experience will provide them with a more in-depth knowledge of the method, and for those who wish to continue on to graduate school, will provide a simulated lab experience that can prepare a student for some of the tasks that would be required of them as a graduate student working in a laboratory that conducts EEG research.&lt;/p&gt;
+&lt;p&gt;For more information on this program, visit the 
+&lt;a href=&#34;http://pursueerp.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PURSUE website&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;project-pis&#34;&gt;Project PIs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;/author/cindy-m.-bukach-phd/&#34;&gt;Cindy Bukach, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jane Couperus, PhD&lt;/li&gt;
+&lt;li&gt;Cathy Reed, PhD&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

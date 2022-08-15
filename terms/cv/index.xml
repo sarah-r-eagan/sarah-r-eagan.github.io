@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cvs | NeurophysiCole</title>
+    <link>/cv/</link>
+      <atom:link href="/cv/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cvs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <image>
+      <url>/media/neurophysicole_logo</url>
+      <title>Cvs</title>
+      <link>/cv/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/cv/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/header/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>/cv/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

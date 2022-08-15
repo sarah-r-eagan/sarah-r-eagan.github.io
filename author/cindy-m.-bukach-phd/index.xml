@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cindy M. Bukach, PhD | NeurophysiCole</title>
+    <link>/author/cindy-m.-bukach-phd/</link>
+      <atom:link href="/author/cindy-m.-bukach-phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cindy M. Bukach, PhD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <image>
+      <url>/media/npc_logo</url>
+      <title>Cindy M. Bukach, PhD</title>
+      <link>/author/cindy-m.-bukach-phd/</link>
+    </image>
+    
+  </channel>
+</rss>

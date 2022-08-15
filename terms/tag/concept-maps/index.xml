@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>concept maps | NeurophysiCole</title>
+    <link>/tag/concept-maps/</link>
+      <atom:link href="/tag/concept-maps/index.xml" rel="self" type="application/rss+xml" />
+    <description>concept maps</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/npc_logo</url>
+      <title>concept maps</title>
+      <link>/tag/concept-maps/</link>
+    </image>
+    
+    <item>
+      <title>Testing Conceptual Organization Using Concept Maps</title>
+      <link>/project/concept_mapping/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/concept_mapping/</guid>
+      <description>&lt;p&gt;Organization is necessary for understanding complex concepts. Conceptual organization is developed by establishing associative connections between individual concepts. In order to develop these associations, the learner must consider the relationship between concepts. The trouble is, so many college students rely heavily on memorization strategies when studying  (e.g., memorizing flashcards or re-reading notes or materials). While repetitive recitation strategies can improve memory for particular concepts, these memorization techniques do not provide much, if any, relational information. This means that students often concentrate on learning concepts in isolation, but may not fully understand how these concepts are related.&lt;/p&gt;
+&lt;p&gt;Students will generally study to prepare for the demands of the test. As such, tests that require students to exhibit an organizational understanding are used to motivate students to concentrate on organizing learned concepts. To this end, concept maps are becoming an increasingly attractive test format for teachers.&lt;/p&gt;
+&lt;p&gt;Now the tough part: How do you measure organization? In this study, we tested organization by considering connectedness. We did this by accounting for inaccurate connections in the concept map. When two concepts were inaccurately connected, the two concepts were graded as separate, resulting in multiple ‘trees’ in the graded concept map. Graded concept maps with a larger number of trees were considered less connected, and thus exhibited a less organized understanding for the learned material.&lt;/p&gt;
+&lt;p&gt;To test organization, we ran multiple experiments comparing learning outcomes for students using concept map, outline, and list study and test formats. Generally speaking, we found that concept maps study and test formats encourage students to develop an organized understanding for the learned material, and outlines were consistently better than lists.&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;/author/darrell-l.-butler-phd/&#34;&gt;Darrell Butler, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Richard Ward, PhD Student&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-status&#34;&gt;Project Status&lt;/h2&gt;
+&lt;p&gt;This manuscript for this project is currently under review.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

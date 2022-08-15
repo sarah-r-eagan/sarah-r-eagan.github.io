@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joshua E. Zosky | NeurophysiCole</title>
+    <link>/author/joshua-e.-zosky/</link>
+      <atom:link href="/author/joshua-e.-zosky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joshua E. Zosky</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <image>
+      <url>/media/npc_logo</url>
+      <title>Joshua E. Zosky</title>
+      <link>/author/joshua-e.-zosky/</link>
+    </image>
+    
+  </channel>
+</rss>

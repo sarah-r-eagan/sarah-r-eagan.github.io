@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning | NeurophysiCole</title>
+    <link>/tag/deep-learning/</link>
+      <atom:link href="/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>deep learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/npc_logo</url>
+      <title>deep learning</title>
+      <link>/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Decoding Eye Movement Data</title>
+      <link>/project/deepeye/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/deepeye/</guid>
+      <description>&lt;p&gt;Imagine a world where a computer could determine what you were thinking about by simply monitoring your eye movements. Scary, right? Well it turns out that if you have individuals look at the same image, but ask them to evaluate different characteristics of the image (e.g., &lt;em&gt;determine the age of the individuals in the image&lt;/em&gt;, or &lt;em&gt;name the individuals in the image&lt;/em&gt;.), the scan paths created by their eye movements have been shown to visibly differ between tasks. We&amp;rsquo;re exploring the most efficient and effective methods for making that happen! (But don&amp;rsquo;t worry, mind-reading robots are still very far off.)&lt;/p&gt;
+&lt;p&gt;We are working to teach the computer to use eye movement data to determine what an individual is thinking. More specifically, in this project we had participants search, rate, or memorize scene images while their eye movements were recorded. Then we fed a deep convolutional neural network the eye movement data formatted as a timeline (coordinates and pupil size), and as an image snapshot of each trial which was then categorized. Typically, classification models are built on a cognitive or neurobiological foundation. At the moment, we are interested in exploring the ability of a black box model to decode eye movement data using no explicit theoretical justiciation in the development of our model. Our models were developed using the deep learning toolbox, 
+&lt;a href=&#34;http://delineate.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeLINEATE&lt;/a&gt;, developed by members of Dr. Johnson&amp;rsquo;s lab. Moving forward, we will continue to explore this neural network approach to decoding eye movement data, and other related questions concerning both theoretical and applied purposes.&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;/author/matthew-r.-johnson-phd/&#34;&gt;Matt Johnson, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;/author/michael-d.-dodd-phd/&#34;&gt;Mike Dodd, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Karl Kuntzelman, PhD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
+&lt;p&gt;The manuscript for this project is currently under review.&lt;/p&gt;
+&lt;h2 id=&#34;pre-print&#34;&gt;Pre Print&lt;/h2&gt;
+&lt;p&gt;Cole, Z. J., Kuntzelman, K., Dodd, M. D., &amp;amp; Johnson, M. (2020, September 23). Convolutional neural networks can decode eye movement data: A black box approach to predicting task from eye movements. 
+&lt;a href=&#34;https://doi.org/10.31234/osf.io/5a6jm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.31234/osf.io/5a6jm&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;published-abstract&#34;&gt;Published Abstract&lt;/h2&gt;
+&lt;p&gt;This work has been presented at the 
+&lt;a href=&#34;https://www.visionsciences.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vision Sciences Society Annual Convention&lt;/a&gt; in 2019. The conference proceedings were published in the &lt;em&gt;Journal of Vision&lt;/em&gt;. Find the abstract 
+&lt;a href=&#34;https://jov.arvojournals.org/article.aspx?articleid=2751172&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

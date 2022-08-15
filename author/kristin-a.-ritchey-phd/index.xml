@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kristin A. Ritchey, PhD | NeurophysiCole</title>
+    <link>/author/kristin-a.-ritchey-phd/</link>
+      <atom:link href="/author/kristin-a.-ritchey-phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kristin A. Ritchey, PhD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <image>
+      <url>/media/npc_logo</url>
+      <title>Kristin A. Ritchey, PhD</title>
+      <link>/author/kristin-a.-ritchey-phd/</link>
+    </image>
+    
+  </channel>
+</rss>
