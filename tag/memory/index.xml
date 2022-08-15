@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>memory | NeurophysiCole</title>
-    <link>/tag/memory/</link>
-      <atom:link href="/tag/memory/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://neurophysicole.com/tag/memory/</link>
+      <atom:link href="https://neurophysicole.com/tag/memory/index.xml" rel="self" type="application/rss+xml" />
     <description>memory</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/npc_logo</url>
+      <url>https://neurophysicole.com/media/npc_logo</url>
       <title>memory</title>
-      <link>/tag/memory/</link>
+      <link>https://neurophysicole.com/tag/memory/</link>
     </image>
     
     <item>
       <title>Conceptual Grouping of Text and Pictures</title>
-      <link>/project/cstm/</link>
+      <link>https://neurophysicole.com/project/cstm/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/cstm/</guid>
+      <guid>https://neurophysicole.com/project/cstm/</guid>
       <description>&lt;p&gt;Conceptual grouping is a process that involves processing multiple concepts as a single entity. One popular form of conceptual grouping is chunking. Colloquially, chunking is a strategy explicitly carried out in order to improve memory. Humans are generally capable of holding about 5-7 items in memory at a time, so most may find it difficult to remember the following string fo numbers: &lt;code&gt;9851250923223&lt;/code&gt;. Now, I personally can chunk this string of numbers by recognizing that the first five numbers &lt;code&gt;98512&lt;/code&gt; is the zipcode for Olympia, WA; the next three numbers &lt;code&gt;509&lt;/code&gt; are an area code used in eastern Washington; and the last five numbers &lt;code&gt;23223&lt;/code&gt; are a zipcode for Richmond, VA. So, using my own established knowledge markers, this is actually a fairly easy set of numbers for me to memorize.&lt;/p&gt;
 &lt;p&gt;Now, how often is it that you are required to memorize a long string of numbers like that?? Okay, occasionally. But thinking more practically, we can consider the more complicated process played by conceptual grouping while reading. As you read a letter, you recall its properties. As you read a word, those letters are grouped into a concept. As you read a sentence, those singular concepts are grouped into a more collective concept. As you read a paragraph, that collective of sentences is unified into a more singular concept. Now let’s think about this. Do you remember the last seven words you read? (Okay, maybe you do..). Do you think you could recall the past five sentences word-for-word? Or, lets make it easier. How about just recalling the topic of each of the past five sentences? That sounds pretty difficult, but I imagine you could probably recall the topic of the last paragraph or two.&lt;/p&gt;
 &lt;p&gt;At this point, I think you get the idea.&lt;/p&gt;
@@ -27,7 +27,7 @@
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/kristin-a.-ritchey-phd/&#34;&gt;Kristin Ritchey, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/kristin-a.-ritchey-phd/&#34;&gt;Kristin Ritchey, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
 &lt;p&gt;The manuscript for this project has been published in the &lt;em&gt;Journal of Cognitive Psychology&lt;/em&gt;! Find it here: 
@@ -37,23 +37,23 @@
     
     <item>
       <title>Study Time vs. Study Strategy</title>
-      <link>/project/ma_thesis/</link>
+      <link>https://neurophysicole.com/project/ma_thesis/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/ma_thesis/</guid>
+      <guid>https://neurophysicole.com/project/ma_thesis/</guid>
       <description>&lt;p&gt;Time-on-task is often the main concern of individuals planning or reflecting on their preparation an exam. For instance, a teacher may give out recommendations for how long studnets should spend studying for the exma. Or a student may determine that they are prepared by recounting how many hours they spent studying the topic to be examined. The issue with this focus is that task efficiency is often ignored when considering what methods of preparation a student will use to study for the test.&lt;/p&gt;
 &lt;p&gt;At this point, most undergraduates are aware that compared to elaborative study strategies, memorization can be less efficient and effective. Despite understanding this, students still rely very heavily on memorizing and regurgitating facts. It does not help matters that even some of the scientific literature focuses on how memorization is improved with increased time-on-task (while ignoring study strategy). In this vein, my advisor and I 
-&lt;a href=&#34;/author/darrell-l.-butler-phd/&#34;&gt;Dr. Darrell Butler&lt;/a&gt; noticed that some of the learning literature appeared to mischaracterize the cognitive effects of study time. Particularly, we found that students who studied longer performed better on tests were considered by some to have obtained a deeper level of knowledge for the topic-at-had. Now, what is important to understand here is that depth of knowledge is built on associations between a variety of information sources. This means that reading, and re-reading the same source does not necessarily result in a deeper level of knowledge, although it may strengthen the memory for that particular material. This means that, theoretically, a shorter study time could be associated with an increased depth of knowledge.&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/darrell-l.-butler-phd/&#34;&gt;Dr. Darrell Butler&lt;/a&gt; noticed that some of the learning literature appeared to mischaracterize the cognitive effects of study time. Particularly, we found that students who studied longer performed better on tests were considered by some to have obtained a deeper level of knowledge for the topic-at-had. Now, what is important to understand here is that depth of knowledge is built on associations between a variety of information sources. This means that reading, and re-reading the same source does not necessarily result in a deeper level of knowledge, although it may strengthen the memory for that particular material. This means that, theoretically, a shorter study time could be associated with an increased depth of knowledge.&lt;/p&gt;
 &lt;p&gt;To test this theory, and disentangle the effects of study time and study strategy on test performance. To do this, we ran two experiments. In both experiments, participants were given an article to read, flashcards to study, and a test to take. The participants studied either deep or shallow level flashcards. In the first experiment, study time was not controlled. In the second experiment, there was a short study time and long study time group.&lt;/p&gt;
 &lt;p&gt;In the end, we were able to confirm that increased study time and more elaborate (deeper) study strategies improved test performance. Furthermore, these effects were not connected, but rather work independently to improve test performance.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/darrell-l.-butler-phd/&#34;&gt;Darrell Butler, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/darrell-l.-butler-phd/&#34;&gt;Darrell Butler, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;committee-members&#34;&gt;Committee Members&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/kristin-a.-ritchey-phd/&#34;&gt;Kristin Ritchey, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/kristin-a.-ritchey-phd/&#34;&gt;Kristin Ritchey, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Michael Tagler, PhD&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;project-status&#34;&gt;Project Status&lt;/h2&gt;
@@ -64,9 +64,9 @@
     
     <item>
       <title>Testing Conceptual Organization Using Concept Maps</title>
-      <link>/project/concept_mapping/</link>
+      <link>https://neurophysicole.com/project/concept_mapping/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/concept_mapping/</guid>
+      <guid>https://neurophysicole.com/project/concept_mapping/</guid>
       <description>&lt;p&gt;Organization is necessary for understanding complex concepts. Conceptual organization is developed by establishing associative connections between individual concepts. In order to develop these associations, the learner must consider the relationship between concepts. The trouble is, so many college students rely heavily on memorization strategies when studying  (e.g., memorizing flashcards or re-reading notes or materials). While repetitive recitation strategies can improve memory for particular concepts, these memorization techniques do not provide much, if any, relational information. This means that students often concentrate on learning concepts in isolation, but may not fully understand how these concepts are related.&lt;/p&gt;
 &lt;p&gt;Students will generally study to prepare for the demands of the test. As such, tests that require students to exhibit an organizational understanding are used to motivate students to concentrate on organizing learned concepts. To this end, concept maps are becoming an increasingly attractive test format for teachers.&lt;/p&gt;
 &lt;p&gt;Now the tough part: How do you measure organization? In this study, we tested organization by considering connectedness. We did this by accounting for inaccurate connections in the concept map. When two concepts were inaccurately connected, the two concepts were graded as separate, resulting in multiple ‘trees’ in the graded concept map. Graded concept maps with a larger number of trees were considered less connected, and thus exhibited a less organized understanding for the learned material.&lt;/p&gt;
@@ -74,7 +74,7 @@
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/darrell-l.-butler-phd/&#34;&gt;Darrell Butler, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/darrell-l.-butler-phd/&#34;&gt;Darrell Butler, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Richard Ward, PhD Student&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;project-status&#34;&gt;Project Status&lt;/h2&gt;

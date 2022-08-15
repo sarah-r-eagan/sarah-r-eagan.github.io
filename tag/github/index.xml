@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GitHub | NeurophysiCole</title>
-    <link>/tag/github/</link>
-      <atom:link href="/tag/github/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://neurophysicole.com/tag/github/</link>
+      <atom:link href="https://neurophysicole.com/tag/github/index.xml" rel="self" type="application/rss+xml" />
     <description>GitHub</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/npc_logo</url>
+      <url>https://neurophysicole.com/media/npc_logo</url>
       <title>GitHub</title>
-      <link>/tag/github/</link>
+      <link>https://neurophysicole.com/tag/github/</link>
     </image>
     
     <item>
       <title>A Noob Perspective on Building a Website</title>
-      <link>/post/a-noobs-perspective-on-building-a-website_for-noobs/</link>
+      <link>https://neurophysicole.com/post/a-noobs-perspective-on-building-a-website_for-noobs/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/a-noobs-perspective-on-building-a-website_for-noobs/</guid>
+      <guid>https://neurophysicole.com/post/a-noobs-perspective-on-building-a-website_for-noobs/</guid>
       <description>&lt;p&gt;So, I have setup two websites of my own in addition to developing a couple of other professional websites, but I am certainly not an expert (definitely feel more like a noob than anything). At this point I have established enough of a baseline knowledge of how this all works, so I figured I would share with the world what I have learned, pass along some recommendations, and provide some walk-throughs of what you need to know to build your own website!&lt;/p&gt;
 &lt;h2 id=&#34;the-story&#34;&gt;The Story&lt;/h2&gt;
 &lt;p&gt;So the story here is that a couple of years ago I decided build my own personal website to increase the visibility of my research, and to provide a platform for sharing my knowledge/thoughts/ideas with the world! Having cut my teeth in web development using 
@@ -43,7 +43,7 @@
 &lt;h2 id=&#34;walk-throughs&#34;&gt;Walk-Throughs&lt;/h2&gt;
 &lt;p&gt;Okay, enough with the story telling. In order to keep the information load manageable and organized, I have provided links below to walk-throughs outlining what I have done to develop sites in the past, and what I am currently doing.&lt;/p&gt;
 &lt;h4 id=&#34;building-a-site-using-wordpresspostwordpress-blog&#34;&gt;
-&lt;a href=&#34;/post/wordpress-blog/&#34;&gt;Building a Site Using WordPress&lt;/a&gt;&lt;/h4&gt;
+&lt;a href=&#34;https://neurophysicole.com/post/wordpress-blog/&#34;&gt;Building a Site Using WordPress&lt;/a&gt;&lt;/h4&gt;
 &lt;h5 id=&#34;pros&#34;&gt;Pros&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;Absolutely zero technical/programming expertise needed.&lt;/li&gt;
@@ -56,7 +56,7 @@
 &lt;li&gt;Ponderous to maintain and update.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;building-a-site-using-github-pagespostgithub-blog&#34;&gt;
-&lt;a href=&#34;/post/github-blog/&#34;&gt;Building a Site using GitHub Pages&lt;/a&gt;&lt;/h4&gt;
+&lt;a href=&#34;https://neurophysicole.com/post/github-blog/&#34;&gt;Building a Site using GitHub Pages&lt;/a&gt;&lt;/h4&gt;
 &lt;h5 id=&#34;pros-1&#34;&gt;Pros&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;Easy to update.&lt;/li&gt;

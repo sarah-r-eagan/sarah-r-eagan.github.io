@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WordPress | NeurophysiCole</title>
-    <link>/tag/wordpress/</link>
-      <atom:link href="/tag/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://neurophysicole.com/tag/wordpress/</link>
+      <atom:link href="https://neurophysicole.com/tag/wordpress/index.xml" rel="self" type="application/rss+xml" />
     <description>WordPress</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/npc_logo</url>
+      <url>https://neurophysicole.com/media/npc_logo</url>
       <title>WordPress</title>
-      <link>/tag/wordpress/</link>
+      <link>https://neurophysicole.com/tag/wordpress/</link>
     </image>
     
     <item>
       <title>A Noob Perspective on Building a Website</title>
-      <link>/post/a-noobs-perspective-on-building-a-website_for-noobs/</link>
+      <link>https://neurophysicole.com/post/a-noobs-perspective-on-building-a-website_for-noobs/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/a-noobs-perspective-on-building-a-website_for-noobs/</guid>
+      <guid>https://neurophysicole.com/post/a-noobs-perspective-on-building-a-website_for-noobs/</guid>
       <description>&lt;p&gt;So, I have setup two websites of my own in addition to developing a couple of other professional websites, but I am certainly not an expert (definitely feel more like a noob than anything). At this point I have established enough of a baseline knowledge of how this all works, so I figured I would share with the world what I have learned, pass along some recommendations, and provide some walk-throughs of what you need to know to build your own website!&lt;/p&gt;
 &lt;h2 id=&#34;the-story&#34;&gt;The Story&lt;/h2&gt;
 &lt;p&gt;So the story here is that a couple of years ago I decided build my own personal website to increase the visibility of my research, and to provide a platform for sharing my knowledge/thoughts/ideas with the world! Having cut my teeth in web development using 
@@ -43,7 +43,7 @@
 &lt;h2 id=&#34;walk-throughs&#34;&gt;Walk-Throughs&lt;/h2&gt;
 &lt;p&gt;Okay, enough with the story telling. In order to keep the information load manageable and organized, I have provided links below to walk-throughs outlining what I have done to develop sites in the past, and what I am currently doing.&lt;/p&gt;
 &lt;h4 id=&#34;building-a-site-using-wordpresspostwordpress-blog&#34;&gt;
-&lt;a href=&#34;/post/wordpress-blog/&#34;&gt;Building a Site Using WordPress&lt;/a&gt;&lt;/h4&gt;
+&lt;a href=&#34;https://neurophysicole.com/post/wordpress-blog/&#34;&gt;Building a Site Using WordPress&lt;/a&gt;&lt;/h4&gt;
 &lt;h5 id=&#34;pros&#34;&gt;Pros&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;Absolutely zero technical/programming expertise needed.&lt;/li&gt;
@@ -56,7 +56,7 @@
 &lt;li&gt;Ponderous to maintain and update.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;building-a-site-using-github-pagespostgithub-blog&#34;&gt;
-&lt;a href=&#34;/post/github-blog/&#34;&gt;Building a Site using GitHub Pages&lt;/a&gt;&lt;/h4&gt;
+&lt;a href=&#34;https://neurophysicole.com/post/github-blog/&#34;&gt;Building a Site using GitHub Pages&lt;/a&gt;&lt;/h4&gt;
 &lt;h5 id=&#34;pros-1&#34;&gt;Pros&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;Easy to update.&lt;/li&gt;
@@ -76,9 +76,9 @@
     
     <item>
       <title>Building a Website Using WordPress</title>
-      <link>/post/wordpress-blog/</link>
+      <link>https://neurophysicole.com/post/wordpress-blog/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/wordpress-blog/</guid>
+      <guid>https://neurophysicole.com/post/wordpress-blog/</guid>
       <description>&lt;p&gt;Despite this method requiring no real technical/programming expertise, there is still a learning curve. The following is a guide to help you through the process:&lt;/p&gt;
 &lt;h2 id=&#34;domain-name&#34;&gt;Domain Name&lt;/h2&gt;
 &lt;p&gt;First, you will have to find yourself a domain name. Obviously, go with something that is relevant, easy to remember, and hopefully easy to spell (say that again, slowly&amp;hellip;then spell neurophysicole..haha). Something that I did learn, was that if you are able to attach your website to another highly trafficked website, your page will be more likely to show up in Google searches and such. For example, if your University offers blog space, you could create your own attached url (e.g., blogname.university.edu). The university may give some push-back if you choose to go with blogname.university.edu, and may try to push you more towards a university.edu/blogname url (saying this from experience). Either way, it is still generally recommended that you use the university resources if possible. This will save you money, and probably help with the visibility of your website.&lt;/p&gt;
@@ -126,7 +126,7 @@
 &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt;. That said, there are other point-and-click no-cost options, but the opions I came across just weren&amp;rsquo;t what I wanted. This 
 &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt; option is free, and I just like it better! I am generally a &amp;ldquo;you get what you pay for&amp;rdquo; guy, but here, I think I have found a possible exception (in my case, it seems more like a &amp;ldquo;you get out what you put in&amp;rdquo; situation). To see how I re-built my website using 
 &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt;, check out this blog post: 
-&lt;a href=&#34;/post/github-blog/&#34;&gt;Building a Website Using Git Pages&lt;/a&gt;!&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/post/github-blog/&#34;&gt;Building a Website Using Git Pages&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     

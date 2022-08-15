@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>attention | NeurophysiCole</title>
-    <link>/tag/attention/</link>
-      <atom:link href="/tag/attention/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://neurophysicole.com/tag/attention/</link>
+      <atom:link href="https://neurophysicole.com/tag/attention/index.xml" rel="self" type="application/rss+xml" />
     <description>attention</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/npc_logo</url>
+      <url>https://neurophysicole.com/media/npc_logo</url>
       <title>attention</title>
-      <link>/tag/attention/</link>
+      <link>https://neurophysicole.com/tag/attention/</link>
     </image>
     
     <item>
       <title>Competition in Reflective and Perceptual Attention</title>
-      <link>/project/arc/</link>
+      <link>https://neurophysicole.com/project/arc/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/project/arc/</guid>
+      <guid>https://neurophysicole.com/project/arc/</guid>
       <description>&lt;p&gt;In order to focus our attention, we must inhibit distracting information. Most commonly, when we think of distractors, we think of sights and sounds that interfere with our ability to focus on a particular sight, sound, or task. Distractors are most commonly characterized as something in the external environment, such as a loud noise or bright light, but they can also be uninvited thoughts or memories that intrude on our mindstate, making it difficult to focus. In order to examine how our brain functions to ignore both types of distractors, we had participants complete a perceptual (externally oriented attention) and reflective (internally oriented attention) inhibition task while an MRI scanned their brain. Using this data, we plan to examine how certain locations in the brain respond to perceptual and reflective distractors of various categories.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/matthew-r.-johnson-phd/&#34;&gt;Matt Johnson, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/matthew-r.-johnson-phd/&#34;&gt;Matt Johnson, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
 &lt;p&gt;The manuscript for this project is currently in preparation.&lt;/p&gt;
@@ -34,19 +34,19 @@
     
     <item>
       <title>Classifying Expertise from Eye Movement Data</title>
-      <link>/project/expertise_eye_tracking/</link>
+      <link>https://neurophysicole.com/project/expertise_eye_tracking/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/expertise_eye_tracking/</guid>
+      <guid>https://neurophysicole.com/project/expertise_eye_tracking/</guid>
       <description>&lt;p&gt;Expertise can be defined by many different criteria. Sometimes there is an absolute threshold for expertise (i.e., certification), and other times expertise is judged in relative terms (i.e., comparing years of experience between two individuals). Being able to define expertise can be useful in numerous situations. Most notably for me, is the potential application of human assistive technology being able to anticipate the type of support individuals will need based on their level of expertise.&lt;/p&gt;
 &lt;p&gt;Take a second to imagine a scenario where you are teaching yourself a skill by participating in automated online computer tutorials. For instance, learning how to program. Now, say the computer is capable of monitoring your eye movements and determining how well you are progressing through the program - not based purely on performance, but based on where you focus your attention externally! Eye movements are one of many behaviors that can signal to the world (in an albeit subtle fashion) what you are thinking about. This kind of technology has the potential to advance the science of learning by highlighting important eye movement features that may be indicative of the cognitive processes relied on by experts. Furthermore, developing human assistive technology in this domain has the potential to improve learning trajectories and advance performance at a level that was possible in the past.&lt;/p&gt;
 &lt;p&gt;All this said, we are still at square one with trying to determine the most effective method for detecting expertise from behavior. Dr. Mike Dodd, Josh Zosky, and I are working in collaboration with computer scientist Dr. Bonita Sharif to determine the best method for determining expertise from the eye movements of programmers actively working to debug computer software.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/michael-d.-dodd-phd/&#34;&gt;Mike Dodd, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/michael-d.-dodd-phd/&#34;&gt;Mike Dodd, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Bonita Sharif, PhD&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/joshua-e.-zosky/&#34;&gt;Josh Zosky&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/joshua-e.-zosky/&#34;&gt;Josh Zosky&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
 &lt;p&gt;The manuscript for this project is currently in progress.&lt;/p&gt;
@@ -55,9 +55,9 @@
     
     <item>
       <title>Running to Preferred Music</title>
-      <link>/project/run_w_music/</link>
+      <link>https://neurophysicole.com/project/run_w_music/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/run_w_music/</guid>
+      <guid>https://neurophysicole.com/project/run_w_music/</guid>
       <description>&lt;p&gt;This study began with a discussion of how local military personnel were not permitted to listen to music on their headphones during their physical training drills. From there, we decided to explore the infleunce of listening to preferred music on exercise.&lt;/p&gt;
 &lt;p&gt;Through our exploration of the literature, we established that the major music-related factors playing a role in exercise performance were rhythm and tempo, volume, synchronization, musicality. Rhythm and tempo and volume are properties of the music that relate to physiological factors such as arousal and attention. Essentially, music at a particular tempo and volume may facilitate the exerciser’s ability to dissociate from the pain associated with exercise, which can improve affect and performance. Furthermore, rhythm and tempo can be used to control pace, and improve movement efficiency which can benefit speed and endurance. Finally, musicality is a property of the music relating to the abstract motivational properties of music (e.g., moving lyrics).&lt;/p&gt;
 &lt;p&gt;Taking a step back, you may notice that all of these majorly established factors are properties of the music. We decided to focus on the perspective of the exerciser. For instance, consider when you go to a gym and there is music in the background. In this case, the background music is [usually] beyond the control of the listener, and may not be to their taste. For this reason, many individuals exercise wearing headphones or earphones. For the most part, we can probably assume that someone wearing headphones is going to listen to music that they prefer. So, we sought to find out whether there is there a difference in exercise performance between individuals who listen to preferred or non-preferred music?&lt;/p&gt;

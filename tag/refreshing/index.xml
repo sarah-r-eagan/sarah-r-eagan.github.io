@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>refreshing | NeurophysiCole</title>
-    <link>/tag/refreshing/</link>
-      <atom:link href="/tag/refreshing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://neurophysicole.com/tag/refreshing/</link>
+      <atom:link href="https://neurophysicole.com/tag/refreshing/index.xml" rel="self" type="application/rss+xml" />
     <description>refreshing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/npc_logo</url>
+      <url>https://neurophysicole.com/media/npc_logo</url>
       <title>refreshing</title>
-      <link>/tag/refreshing/</link>
+      <link>https://neurophysicole.com/tag/refreshing/</link>
     </image>
     
     <item>
       <title>Competition in Reflective and Perceptual Attention</title>
-      <link>/project/arc/</link>
+      <link>https://neurophysicole.com/project/arc/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/project/arc/</guid>
+      <guid>https://neurophysicole.com/project/arc/</guid>
       <description>&lt;p&gt;In order to focus our attention, we must inhibit distracting information. Most commonly, when we think of distractors, we think of sights and sounds that interfere with our ability to focus on a particular sight, sound, or task. Distractors are most commonly characterized as something in the external environment, such as a loud noise or bright light, but they can also be uninvited thoughts or memories that intrude on our mindstate, making it difficult to focus. In order to examine how our brain functions to ignore both types of distractors, we had participants complete a perceptual (externally oriented attention) and reflective (internally oriented attention) inhibition task while an MRI scanned their brain. Using this data, we plan to examine how certain locations in the brain respond to perceptual and reflective distractors of various categories.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/matthew-r.-johnson-phd/&#34;&gt;Matt Johnson, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/matthew-r.-johnson-phd/&#34;&gt;Matt Johnson, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
 &lt;p&gt;The manuscript for this project is currently in preparation.&lt;/p&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Refreshing Predictable Words</title>
-      <link>/project/freshprime/</link>
+      <link>https://neurophysicole.com/project/freshprime/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/freshprime/</guid>
+      <guid>https://neurophysicole.com/project/freshprime/</guid>
       <description>&lt;p&gt;Do you think that your thoughts can influence how you see the world? As children, the shadows in our bedroom at night look like monsters (sometimes when we&amp;rsquo;re adults too 😬). Or sometimes we read a word, then go back to realize it was a totally different word! Or on occasion, we may even mis-identify a person, place, or object. In one particularly intriguing example, 
 &lt;a href=&#34;author/matthew-r.-johnson-phd/&#34;&gt;Dr. Johnson&lt;/a&gt; showed that when the thought of a particular picture or word was the focus of attention immediately before the same word was presented, reaction times were slower than when a different picture or word was presented. In the paper describing these findings (
 &lt;a href=&#34;https://doi.org/10.1177/0956797612466414&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Johnson et al., 2013 - Foraging for Thought&lt;/a&gt;), 

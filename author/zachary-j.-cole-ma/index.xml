@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zachary J. Cole, MA | NeurophysiCole</title>
-    <link>/author/zachary-j.-cole-ma/</link>
-      <atom:link href="/author/zachary-j.-cole-ma/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://neurophysicole.com/author/zachary-j.-cole-ma/</link>
+      <atom:link href="https://neurophysicole.com/author/zachary-j.-cole-ma/index.xml" rel="self" type="application/rss+xml" />
     <description>Zachary J. Cole, MA</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/npc_logo</url>
+      <url>https://neurophysicole.com/media/npc_logo</url>
       <title>Zachary J. Cole, MA</title>
-      <link>/author/zachary-j.-cole-ma/</link>
+      <link>https://neurophysicole.com/author/zachary-j.-cole-ma/</link>
     </image>
     
     <item>
       <title>Competition in Reflective and Perceptual Attention</title>
-      <link>/project/arc/</link>
+      <link>https://neurophysicole.com/project/arc/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/project/arc/</guid>
+      <guid>https://neurophysicole.com/project/arc/</guid>
       <description>&lt;p&gt;In order to focus our attention, we must inhibit distracting information. Most commonly, when we think of distractors, we think of sights and sounds that interfere with our ability to focus on a particular sight, sound, or task. Distractors are most commonly characterized as something in the external environment, such as a loud noise or bright light, but they can also be uninvited thoughts or memories that intrude on our mindstate, making it difficult to focus. In order to examine how our brain functions to ignore both types of distractors, we had participants complete a perceptual (externally oriented attention) and reflective (internally oriented attention) inhibition task while an MRI scanned their brain. Using this data, we plan to examine how certain locations in the brain respond to perceptual and reflective distractors of various categories.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/matthew-r.-johnson-phd/&#34;&gt;Matt Johnson, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/matthew-r.-johnson-phd/&#34;&gt;Matt Johnson, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
 &lt;p&gt;The manuscript for this project is currently in preparation.&lt;/p&gt;
@@ -34,17 +34,17 @@
     
     <item>
       <title>Preprint: Probability Manipulations Modulate Reflective Inhibition of Return</title>
-      <link>/news/preprint-freshprime/</link>
+      <link>https://neurophysicole.com/news/preprint-freshprime/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/news/preprint-freshprime/</guid>
+      <guid>https://neurophysicole.com/news/preprint-freshprime/</guid>
       <description>&lt;p&gt;My project with 
-&lt;a href=&#34;/author/evan-n.-lintz/&#34;&gt;Evan Lintz&lt;/a&gt; and 
-&lt;a href=&#34;/author/matthew-r.-johnson-phd/&#34;&gt;Dr. Matt Johnson&lt;/a&gt; from our lab (
+&lt;a href=&#34;https://neurophysicole.com/author/evan-n.-lintz/&#34;&gt;Evan Lintz&lt;/a&gt; and 
+&lt;a href=&#34;https://neurophysicole.com/author/matthew-r.-johnson-phd/&#34;&gt;Dr. Matt Johnson&lt;/a&gt; from our lab (
 &lt;a href=&#34;https://raplab.rocks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RAP Lab&lt;/a&gt;) entitled &amp;ldquo;Probability manipulations can modulate but not reverse reflective inhibition of return effects&amp;rdquo; is currently under review, and was posted as a preprint on 
 &lt;a href=&#34;https://psyarxiv.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PsyArXiv&lt;/a&gt;!&lt;/p&gt;
 &lt;h2 id=&#34;get-more-info-about-the-project&#34;&gt;Get More Info About the Project&lt;/h2&gt;
 &lt;p&gt;More information on the project: 
-&lt;a href=&#34;/project/freshprime/&#34;&gt;Refreshing Predictable Words&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/project/freshprime/&#34;&gt;Refreshing Predictable Words&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;preprint&#34;&gt;Preprint&lt;/h2&gt;
 &lt;p&gt;Link to the preprint: 
 &lt;a href=&#34;https://psyarxiv.com/cs5q3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Probability Manipulations Modulate Reflective Inhibition of Return&lt;/a&gt;&lt;/p&gt;
@@ -53,16 +53,16 @@
     
     <item>
       <title>Preprint: Classifying Mental State from Eye Movement Data</title>
-      <link>/news/preprint-deepeye/</link>
+      <link>https://neurophysicole.com/news/preprint-deepeye/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/news/preprint-deepeye/</guid>
+      <guid>https://neurophysicole.com/news/preprint-deepeye/</guid>
       <description>&lt;p&gt;My collaborative project with Dr. Karl Kuntzelman, 
-&lt;a href=&#34;/author/michael-d.-dodd-phd/&#34;&gt;Dr. Mike Dodd&lt;/a&gt;, and 
-&lt;a href=&#34;/author/matthew-r.-johnson-phd/&#34;&gt;Dr. Matt Johnson&lt;/a&gt; entitled &amp;ldquo;Convolutional neural networks can decode eye movement data: A black box approach to predicting task from eye movements&amp;rdquo; is currently under review, and was posted as a preprint on 
+&lt;a href=&#34;https://neurophysicole.com/author/michael-d.-dodd-phd/&#34;&gt;Dr. Mike Dodd&lt;/a&gt;, and 
+&lt;a href=&#34;https://neurophysicole.com/author/matthew-r.-johnson-phd/&#34;&gt;Dr. Matt Johnson&lt;/a&gt; entitled &amp;ldquo;Convolutional neural networks can decode eye movement data: A black box approach to predicting task from eye movements&amp;rdquo; is currently under review, and was posted as a preprint on 
 &lt;a href=&#34;https://psyarxiv.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PsyArXiv&lt;/a&gt;!&lt;/p&gt;
 &lt;h2 id=&#34;get-more-info-about-the-project&#34;&gt;Get More Info About the Project&lt;/h2&gt;
 &lt;p&gt;More information on the project: 
-&lt;a href=&#34;/project/deepeye/&#34;&gt;Decoding Eye Movement Data&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/project/deepeye/&#34;&gt;Decoding Eye Movement Data&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;preprint&#34;&gt;Preprint&lt;/h2&gt;
 &lt;p&gt;Link to the preprint: 
 &lt;a href=&#34;https://psyarxiv.com/5a6jm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Convolutional neural networks can decode eye movement data: A black box approach to predicting task from eye movements&lt;/a&gt;&lt;/p&gt;
@@ -71,9 +71,9 @@
     
     <item>
       <title>A Noob Perspective on Building a Website</title>
-      <link>/post/a-noobs-perspective-on-building-a-website_for-noobs/</link>
+      <link>https://neurophysicole.com/post/a-noobs-perspective-on-building-a-website_for-noobs/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/a-noobs-perspective-on-building-a-website_for-noobs/</guid>
+      <guid>https://neurophysicole.com/post/a-noobs-perspective-on-building-a-website_for-noobs/</guid>
       <description>&lt;p&gt;So, I have setup two websites of my own in addition to developing a couple of other professional websites, but I am certainly not an expert (definitely feel more like a noob than anything). At this point I have established enough of a baseline knowledge of how this all works, so I figured I would share with the world what I have learned, pass along some recommendations, and provide some walk-throughs of what you need to know to build your own website!&lt;/p&gt;
 &lt;h2 id=&#34;the-story&#34;&gt;The Story&lt;/h2&gt;
 &lt;p&gt;So the story here is that a couple of years ago I decided build my own personal website to increase the visibility of my research, and to provide a platform for sharing my knowledge/thoughts/ideas with the world! Having cut my teeth in web development using 
@@ -100,7 +100,7 @@
 &lt;h2 id=&#34;walk-throughs&#34;&gt;Walk-Throughs&lt;/h2&gt;
 &lt;p&gt;Okay, enough with the story telling. In order to keep the information load manageable and organized, I have provided links below to walk-throughs outlining what I have done to develop sites in the past, and what I am currently doing.&lt;/p&gt;
 &lt;h4 id=&#34;building-a-site-using-wordpresspostwordpress-blog&#34;&gt;
-&lt;a href=&#34;/post/wordpress-blog/&#34;&gt;Building a Site Using WordPress&lt;/a&gt;&lt;/h4&gt;
+&lt;a href=&#34;https://neurophysicole.com/post/wordpress-blog/&#34;&gt;Building a Site Using WordPress&lt;/a&gt;&lt;/h4&gt;
 &lt;h5 id=&#34;pros&#34;&gt;Pros&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;Absolutely zero technical/programming expertise needed.&lt;/li&gt;
@@ -113,7 +113,7 @@
 &lt;li&gt;Ponderous to maintain and update.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;building-a-site-using-github-pagespostgithub-blog&#34;&gt;
-&lt;a href=&#34;/post/github-blog/&#34;&gt;Building a Site using GitHub Pages&lt;/a&gt;&lt;/h4&gt;
+&lt;a href=&#34;https://neurophysicole.com/post/github-blog/&#34;&gt;Building a Site using GitHub Pages&lt;/a&gt;&lt;/h4&gt;
 &lt;h5 id=&#34;pros-1&#34;&gt;Pros&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;Easy to update.&lt;/li&gt;
@@ -133,9 +133,9 @@
     
     <item>
       <title>Building a Website Using Git Pages</title>
-      <link>/post/github-blog/</link>
+      <link>https://neurophysicole.com/post/github-blog/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/github-blog/</guid>
+      <guid>https://neurophysicole.com/post/github-blog/</guid>
       <description>&lt;p&gt;This method requires a basic understanding of how Git works, and how Markdown works. These aren&amp;rsquo;t super complex systems, but definitely come with a little bit of a learning curve. This is a place to get started, and from here it will just take time to get a handle on everything. In the end, if you are in academia or writing, or if you are doing any remotely technical work, understanding Git and understanding Markdown will actually pay off for you bigtime in the end! I &lt;strong&gt;highly&lt;/strong&gt; recommend this approach!&lt;/p&gt;
 &lt;h2 id=&#34;github-pages&#34;&gt;GitHub Pages&lt;/h2&gt;
 &lt;p&gt;So, the appraoch that I am pushing here is 
@@ -242,15 +242,15 @@
 &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages documentation&lt;/a&gt; and the 
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo-Academic documentation&lt;/a&gt; is pretty great! If you have gotten to this point, and you think that maybe this is not the route for you to take, checkout my other blog outlining what you need to know to setup a blog site using 
 &lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress&lt;/a&gt;, and some advice based on what I have done in the past: 
-&lt;a href=&#34;/post/wordpress-blog/&#34;&gt;Building a Website Using WordPress&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/post/wordpress-blog/&#34;&gt;Building a Website Using WordPress&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Building a Website Using WordPress</title>
-      <link>/post/wordpress-blog/</link>
+      <link>https://neurophysicole.com/post/wordpress-blog/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/wordpress-blog/</guid>
+      <guid>https://neurophysicole.com/post/wordpress-blog/</guid>
       <description>&lt;p&gt;Despite this method requiring no real technical/programming expertise, there is still a learning curve. The following is a guide to help you through the process:&lt;/p&gt;
 &lt;h2 id=&#34;domain-name&#34;&gt;Domain Name&lt;/h2&gt;
 &lt;p&gt;First, you will have to find yourself a domain name. Obviously, go with something that is relevant, easy to remember, and hopefully easy to spell (say that again, slowly&amp;hellip;then spell neurophysicole..haha). Something that I did learn, was that if you are able to attach your website to another highly trafficked website, your page will be more likely to show up in Google searches and such. For example, if your University offers blog space, you could create your own attached url (e.g., blogname.university.edu). The university may give some push-back if you choose to go with blogname.university.edu, and may try to push you more towards a university.edu/blogname url (saying this from experience). Either way, it is still generally recommended that you use the university resources if possible. This will save you money, and probably help with the visibility of your website.&lt;/p&gt;
@@ -298,20 +298,20 @@
 &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt;. That said, there are other point-and-click no-cost options, but the opions I came across just weren&amp;rsquo;t what I wanted. This 
 &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt; option is free, and I just like it better! I am generally a &amp;ldquo;you get what you pay for&amp;rdquo; guy, but here, I think I have found a possible exception (in my case, it seems more like a &amp;ldquo;you get out what you put in&amp;rdquo; situation). To see how I re-built my website using 
 &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt;, check out this blog post: 
-&lt;a href=&#34;/post/github-blog/&#34;&gt;Building a Website Using Git Pages&lt;/a&gt;!&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/post/github-blog/&#34;&gt;Building a Website Using Git Pages&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Publication: Conceptual Grouping of Text and Pictures</title>
-      <link>/news/pub-cstm/</link>
+      <link>https://neurophysicole.com/news/pub-cstm/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/news/pub-cstm/</guid>
+      <guid>https://neurophysicole.com/news/pub-cstm/</guid>
       <description>&lt;p&gt;My collaborative project with 
-&lt;a href=&#34;/author/kristin-a.-ritchey-phd/&#34;&gt;Dr. Krirstin Ritchey&lt;/a&gt; entitled &amp;ldquo;Show me the meaning! The contextual relevance of images influences the recall and understanding of multimedia RSVP paragraphs&amp;rdquo; was  recently published in the &lt;em&gt;Journal of Cognitive Psychology&lt;/em&gt;!&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/kristin-a.-ritchey-phd/&#34;&gt;Dr. Krirstin Ritchey&lt;/a&gt; entitled &amp;ldquo;Show me the meaning! The contextual relevance of images influences the recall and understanding of multimedia RSVP paragraphs&amp;rdquo; was  recently published in the &lt;em&gt;Journal of Cognitive Psychology&lt;/em&gt;!&lt;/p&gt;
 &lt;h2 id=&#34;get-more-info-about-the-project&#34;&gt;Get More Info About the Project&lt;/h2&gt;
 &lt;p&gt;More information on the project: 
-&lt;a href=&#34;/project/cstm/&#34;&gt;Conceptual Grouping of Text and Pictures&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/project/cstm/&#34;&gt;Conceptual Grouping of Text and Pictures&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
 &lt;p&gt;Link to the publication: 
 &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/20445911.2020.1711767?journalCode=pecp21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Show me the meaning! The contextual relevance of images influences the recall and understanding of multimedia RSVP paragraphs&lt;/a&gt;&lt;/p&gt;
@@ -320,14 +320,14 @@
     
     <item>
       <title>Publication: NARPS</title>
-      <link>/news/pub-narps/</link>
+      <link>https://neurophysicole.com/news/pub-narps/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/news/pub-narps/</guid>
+      <guid>https://neurophysicole.com/news/pub-narps/</guid>
       <description>&lt;p&gt;I was recently involved with 
-&lt;a href=&#34;/author/matthew-r.-johnson-phd/&#34;&gt;Dr. Matt Johnson&lt;/a&gt;, 
-&lt;a href=&#34;/author/evan-n.-lintz/&#34;&gt;Evan Lintz&lt;/a&gt;, 
-&lt;a href=&#34;/author/joshua-e.-zosky/&#34;&gt;Josh Zosky&lt;/a&gt; and other lab members on a large-scale multi-lab research project that was concerned with comparing fMRI data analysis pipelines between numerous research labs. For me, this project was my first experience analyzing fMRI data (I have since been involved in multiple other fMRI projects - stay tuned!). With the guidance of 
-&lt;a href=&#34;/author/matthew-r.-johnson-phd&#34;&gt;Dr. Johnson&lt;/a&gt;, I contributed to the processing, analysis, and reporting of our findings. The results from our lab (and many others) were collated by the central group running the project. The different reports were analyzed to determine how decisions were made at various points of the analyses, and how these decisions affected the reported outcome of the analysis. While findings reported from fMRI and othere complex analyses are often taken as relatively objective, this study brings to light the importance of open science and replication.&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/matthew-r.-johnson-phd/&#34;&gt;Dr. Matt Johnson&lt;/a&gt;, 
+&lt;a href=&#34;https://neurophysicole.com/author/evan-n.-lintz/&#34;&gt;Evan Lintz&lt;/a&gt;, 
+&lt;a href=&#34;https://neurophysicole.com/author/joshua-e.-zosky/&#34;&gt;Josh Zosky&lt;/a&gt; and other lab members on a large-scale multi-lab research project that was concerned with comparing fMRI data analysis pipelines between numerous research labs. For me, this project was my first experience analyzing fMRI data (I have since been involved in multiple other fMRI projects - stay tuned!). With the guidance of 
+&lt;a href=&#34;https://neurophysicole.com/author/matthew-r.-johnson-phd&#34;&gt;Dr. Johnson&lt;/a&gt;, I contributed to the processing, analysis, and reporting of our findings. The results from our lab (and many others) were collated by the central group running the project. The different reports were analyzed to determine how decisions were made at various points of the analyses, and how these decisions affected the reported outcome of the analysis. While findings reported from fMRI and othere complex analyses are often taken as relatively objective, this study brings to light the importance of open science and replication.&lt;/p&gt;
 &lt;h2 id=&#34;get-more-info-about-the-project&#34;&gt;Get More Info About the Project&lt;/h2&gt;
 &lt;p&gt;More information on the project: 
 &lt;a href=&#34;https://www.narps.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NARPS&lt;/a&gt;&lt;/p&gt;
@@ -339,13 +339,13 @@
     
     <item>
       <title>Publication: Study Time vs. Study Strategy</title>
-      <link>/news/pub-mathesis/</link>
+      <link>https://neurophysicole.com/news/pub-mathesis/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/news/pub-mathesis/</guid>
+      <guid>https://neurophysicole.com/news/pub-mathesis/</guid>
       <description>&lt;p&gt;My Master&amp;rsquo;s thesis research attempting to delineate the effects of study time and strategy was recently published in the &lt;em&gt;Psi Chi Journal of Psychological Science&lt;/em&gt;!&lt;/p&gt;
 &lt;h2 id=&#34;get-more-info-about-the-project&#34;&gt;Get More Info About the Project&lt;/h2&gt;
 &lt;p&gt;More information on the project: 
-&lt;a href=&#34;/project/ma_thesis/&#34;&gt;Study Time vs. Study Strategy&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/project/ma_thesis/&#34;&gt;Study Time vs. Study Strategy&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
 &lt;p&gt;Link to the publication: 
 &lt;a href=&#34;https://cdn.ymaws.com/www.psichi.org/resource/resmgr/journal_2020/25_2_cole.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disentangling the effects of study time and study strategy on undergraduate test performance&lt;/a&gt;&lt;/p&gt;
@@ -354,37 +354,37 @@
     
     <item>
       <title>Radio Interview: Breakfast with Bern Young</title>
-      <link>/news/interview-gc_aussie/</link>
+      <link>https://neurophysicole.com/news/interview-gc_aussie/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/news/interview-gc_aussie/</guid>
+      <guid>https://neurophysicole.com/news/interview-gc_aussie/</guid>
       <description>&lt;p&gt;I was contacted by a radio show in Australia, 
 &lt;a href=&#34;https://www.abc.net.au/radio/goldcoast/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ABC Gold Coast&lt;/a&gt;‘s &amp;ldquo;Breakfast with 
 &lt;a href=&#34;https://www.abc.net.au/radio/people/bern-young/7951830&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bern Young&lt;/a&gt;” morning show. The interview was focused on how music can improve exercise performance and motivation. In particular, I talked to them about our research study 
-&lt;a href=&#34;/project/run_w_music/&#34;&gt;Effects of Listening to Preferential Music on Sex Differences in Endurance Running Performance&lt;/a&gt;, in addition to what other researchers have found regarding the use of music to motivate people to exercise.&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/project/run_w_music/&#34;&gt;Effects of Listening to Preferential Music on Sex Differences in Endurance Running Performance&lt;/a&gt;, in addition to what other researchers have found regarding the use of music to motivate people to exercise.&lt;/p&gt;
 &lt;h2 id=&#34;listen-to-the-interview&#34;&gt;Listen to the Interview!&lt;/h2&gt;
 &lt;p&gt;Listen to the interview 
 &lt;a href=&#34;https://soundcloud.com/abc-gold-coast/breakfast-make-you-sweat-how-can-music-motivate-you&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
 &lt;h2 id=&#34;relevant-project&#34;&gt;Relevant Project&lt;/h2&gt;
 &lt;p&gt;For more information on this topic, checkout our 
-&lt;a href=&#34;/project/run_w_music/&#34;&gt;&lt;strong&gt;project&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/project/run_w_music/&#34;&gt;&lt;strong&gt;project&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Classifying Expertise from Eye Movement Data</title>
-      <link>/project/expertise_eye_tracking/</link>
+      <link>https://neurophysicole.com/project/expertise_eye_tracking/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/expertise_eye_tracking/</guid>
+      <guid>https://neurophysicole.com/project/expertise_eye_tracking/</guid>
       <description>&lt;p&gt;Expertise can be defined by many different criteria. Sometimes there is an absolute threshold for expertise (i.e., certification), and other times expertise is judged in relative terms (i.e., comparing years of experience between two individuals). Being able to define expertise can be useful in numerous situations. Most notably for me, is the potential application of human assistive technology being able to anticipate the type of support individuals will need based on their level of expertise.&lt;/p&gt;
 &lt;p&gt;Take a second to imagine a scenario where you are teaching yourself a skill by participating in automated online computer tutorials. For instance, learning how to program. Now, say the computer is capable of monitoring your eye movements and determining how well you are progressing through the program - not based purely on performance, but based on where you focus your attention externally! Eye movements are one of many behaviors that can signal to the world (in an albeit subtle fashion) what you are thinking about. This kind of technology has the potential to advance the science of learning by highlighting important eye movement features that may be indicative of the cognitive processes relied on by experts. Furthermore, developing human assistive technology in this domain has the potential to improve learning trajectories and advance performance at a level that was possible in the past.&lt;/p&gt;
 &lt;p&gt;All this said, we are still at square one with trying to determine the most effective method for detecting expertise from behavior. Dr. Mike Dodd, Josh Zosky, and I are working in collaboration with computer scientist Dr. Bonita Sharif to determine the best method for determining expertise from the eye movements of programmers actively working to debug computer software.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/michael-d.-dodd-phd/&#34;&gt;Mike Dodd, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/michael-d.-dodd-phd/&#34;&gt;Mike Dodd, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Bonita Sharif, PhD&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/joshua-e.-zosky/&#34;&gt;Josh Zosky&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/joshua-e.-zosky/&#34;&gt;Josh Zosky&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
 &lt;p&gt;The manuscript for this project is currently in progress.&lt;/p&gt;
@@ -393,18 +393,18 @@
     
     <item>
       <title>Decoding Eye Movement Data</title>
-      <link>/project/deepeye/</link>
+      <link>https://neurophysicole.com/project/deepeye/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/deepeye/</guid>
+      <guid>https://neurophysicole.com/project/deepeye/</guid>
       <description>&lt;p&gt;Imagine a world where a computer could determine what you were thinking about by simply monitoring your eye movements. Scary, right? Well it turns out that if you have individuals look at the same image, but ask them to evaluate different characteristics of the image (e.g., &lt;em&gt;determine the age of the individuals in the image&lt;/em&gt;, or &lt;em&gt;name the individuals in the image&lt;/em&gt;.), the scan paths created by their eye movements have been shown to visibly differ between tasks. We&amp;rsquo;re exploring the most efficient and effective methods for making that happen! (But don&amp;rsquo;t worry, mind-reading robots are still very far off.)&lt;/p&gt;
 &lt;p&gt;We are working to teach the computer to use eye movement data to determine what an individual is thinking. More specifically, in this project we had participants search, rate, or memorize scene images while their eye movements were recorded. Then we fed a deep convolutional neural network the eye movement data formatted as a timeline (coordinates and pupil size), and as an image snapshot of each trial which was then categorized. Typically, classification models are built on a cognitive or neurobiological foundation. At the moment, we are interested in exploring the ability of a black box model to decode eye movement data using no explicit theoretical justiciation in the development of our model. Our models were developed using the deep learning toolbox, 
 &lt;a href=&#34;http://delineate.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeLINEATE&lt;/a&gt;, developed by members of Dr. Johnson&amp;rsquo;s lab. Moving forward, we will continue to explore this neural network approach to decoding eye movement data, and other related questions concerning both theoretical and applied purposes.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/matthew-r.-johnson-phd/&#34;&gt;Matt Johnson, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/matthew-r.-johnson-phd/&#34;&gt;Matt Johnson, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/michael-d.-dodd-phd/&#34;&gt;Mike Dodd, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/michael-d.-dodd-phd/&#34;&gt;Mike Dodd, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Karl Kuntzelman, PhD&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
@@ -421,16 +421,16 @@
     
     <item>
       <title>PURSUE</title>
-      <link>/project/pursue/</link>
+      <link>https://neurophysicole.com/project/pursue/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/pursue/</guid>
+      <guid>https://neurophysicole.com/project/pursue/</guid>
       <description>&lt;p&gt;Many young adults who attend a university do so with the hope of identifying and/or pursuing a career, sometimes their dream! For many, that dream is to be a scientist! In many instances, the dreams of these students are limited by the resources available to them, through the university, or otherwise. For this reason, the Preparing Undergraduates for Research in Stem-related fields using Electrophysiology (PURSUE) program was developed. PURSUE is meant to provide students at universities that are not capable of providing students with experience in a cognitive neuroscience laboratory (particularly EEG) a chance to get hands on experience going through tutorials covering every phase of an EEG experiment, designing an ERP study and analyzing data from a database. These experiences are valuable to undergradaute students in that hadns-on experience will provide them with a more in-depth knowledge of the method, and for those who wish to continue on to graduate school, will provide a simulated lab experience that can prepare a student for some of the tasks that would be required of them as a graduate student working in a laboratory that conducts EEG research.&lt;/p&gt;
 &lt;p&gt;For more information on this program, visit the 
 &lt;a href=&#34;http://pursueerp.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PURSUE website&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;project-pis&#34;&gt;Project PIs&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/cindy-m.-bukach-phd/&#34;&gt;Cindy Bukach, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/cindy-m.-bukach-phd/&#34;&gt;Cindy Bukach, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Jane Couperus, PhD&lt;/li&gt;
 &lt;li&gt;Cathy Reed, PhD&lt;/li&gt;
 &lt;/ul&gt;
@@ -439,9 +439,9 @@
     
     <item>
       <title>Refreshing Predictable Words</title>
-      <link>/project/freshprime/</link>
+      <link>https://neurophysicole.com/project/freshprime/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/freshprime/</guid>
+      <guid>https://neurophysicole.com/project/freshprime/</guid>
       <description>&lt;p&gt;Do you think that your thoughts can influence how you see the world? As children, the shadows in our bedroom at night look like monsters (sometimes when we&amp;rsquo;re adults too 😬). Or sometimes we read a word, then go back to realize it was a totally different word! Or on occasion, we may even mis-identify a person, place, or object. In one particularly intriguing example, 
 &lt;a href=&#34;author/matthew-r.-johnson-phd/&#34;&gt;Dr. Johnson&lt;/a&gt; showed that when the thought of a particular picture or word was the focus of attention immediately before the same word was presented, reaction times were slower than when a different picture or word was presented. In the paper describing these findings (
 &lt;a href=&#34;https://doi.org/10.1177/0956797612466414&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Johnson et al., 2013 - Foraging for Thought&lt;/a&gt;), 
@@ -465,9 +465,9 @@
     
     <item>
       <title>Running to Preferred Music</title>
-      <link>/project/run_w_music/</link>
+      <link>https://neurophysicole.com/project/run_w_music/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/run_w_music/</guid>
+      <guid>https://neurophysicole.com/project/run_w_music/</guid>
       <description>&lt;p&gt;This study began with a discussion of how local military personnel were not permitted to listen to music on their headphones during their physical training drills. From there, we decided to explore the infleunce of listening to preferred music on exercise.&lt;/p&gt;
 &lt;p&gt;Through our exploration of the literature, we established that the major music-related factors playing a role in exercise performance were rhythm and tempo, volume, synchronization, musicality. Rhythm and tempo and volume are properties of the music that relate to physiological factors such as arousal and attention. Essentially, music at a particular tempo and volume may facilitate the exerciser’s ability to dissociate from the pain associated with exercise, which can improve affect and performance. Furthermore, rhythm and tempo can be used to control pace, and improve movement efficiency which can benefit speed and endurance. Finally, musicality is a property of the music relating to the abstract motivational properties of music (e.g., moving lyrics).&lt;/p&gt;
 &lt;p&gt;Taking a step back, you may notice that all of these majorly established factors are properties of the music. We decided to focus on the perspective of the exerciser. For instance, consider when you go to a gym and there is music in the background. In this case, the background music is [usually] beyond the control of the listener, and may not be to their taste. For this reason, many individuals exercise wearing headphones or earphones. For the most part, we can probably assume that someone wearing headphones is going to listen to music that they prefer. So, we sought to find out whether there is there a difference in exercise performance between individuals who listen to preferred or non-preferred music?&lt;/p&gt;
@@ -486,15 +486,15 @@
     
     <item>
       <title>The Use and Perceptions of Physical Activity Monitors</title>
-      <link>/project/pam/</link>
+      <link>https://neurophysicole.com/project/pam/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/pam/</guid>
+      <guid>https://neurophysicole.com/project/pam/</guid>
       <description>&lt;p&gt;In recent years, the Internet of Things (IoT) has opened up doors and windows for enhancing the human experience. In the same period, we have seen a growing concern for personal health and wellness. As such, physical activity monitors (PAMs) – most commonly wristbands or phone apps – have become a popular tool for individuals to self-monitor physical activity and set goals. At this point, there is not a lot of information regarding the use of PAMs. For this reason, 
-&lt;a href=&#34;/author/darrell-l.-butler-phd/&#34;&gt;Dr. Darrell Butler&lt;/a&gt; and I conducted focus groups and large-scale surveys of PAM users to better understand their motivation for purchasing and using PAMs, in addition to observing the outcomes individuals with PAMs experience as a result of using the PAMs.&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/darrell-l.-butler-phd/&#34;&gt;Dr. Darrell Butler&lt;/a&gt; and I conducted focus groups and large-scale surveys of PAM users to better understand their motivation for purchasing and using PAMs, in addition to observing the outcomes individuals with PAMs experience as a result of using the PAMs.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/darrell-l.-butler-phd/&#34;&gt;Darrell Butler, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/darrell-l.-butler-phd/&#34;&gt;Darrell Butler, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
 &lt;p&gt;The manuscript for this project is currently in progress.&lt;/p&gt;
@@ -503,9 +503,9 @@
     
     <item>
       <title>Conceptual Grouping of Text and Pictures</title>
-      <link>/project/cstm/</link>
+      <link>https://neurophysicole.com/project/cstm/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/cstm/</guid>
+      <guid>https://neurophysicole.com/project/cstm/</guid>
       <description>&lt;p&gt;Conceptual grouping is a process that involves processing multiple concepts as a single entity. One popular form of conceptual grouping is chunking. Colloquially, chunking is a strategy explicitly carried out in order to improve memory. Humans are generally capable of holding about 5-7 items in memory at a time, so most may find it difficult to remember the following string fo numbers: &lt;code&gt;9851250923223&lt;/code&gt;. Now, I personally can chunk this string of numbers by recognizing that the first five numbers &lt;code&gt;98512&lt;/code&gt; is the zipcode for Olympia, WA; the next three numbers &lt;code&gt;509&lt;/code&gt; are an area code used in eastern Washington; and the last five numbers &lt;code&gt;23223&lt;/code&gt; are a zipcode for Richmond, VA. So, using my own established knowledge markers, this is actually a fairly easy set of numbers for me to memorize.&lt;/p&gt;
 &lt;p&gt;Now, how often is it that you are required to memorize a long string of numbers like that?? Okay, occasionally. But thinking more practically, we can consider the more complicated process played by conceptual grouping while reading. As you read a letter, you recall its properties. As you read a word, those letters are grouped into a concept. As you read a sentence, those singular concepts are grouped into a more collective concept. As you read a paragraph, that collective of sentences is unified into a more singular concept. Now let’s think about this. Do you remember the last seven words you read? (Okay, maybe you do..). Do you think you could recall the past five sentences word-for-word? Or, lets make it easier. How about just recalling the topic of each of the past five sentences? That sounds pretty difficult, but I imagine you could probably recall the topic of the last paragraph or two.&lt;/p&gt;
 &lt;p&gt;At this point, I think you get the idea.&lt;/p&gt;
@@ -516,7 +516,7 @@
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/kristin-a.-ritchey-phd/&#34;&gt;Kristin Ritchey, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/kristin-a.-ritchey-phd/&#34;&gt;Kristin Ritchey, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
 &lt;p&gt;The manuscript for this project has been published in the &lt;em&gt;Journal of Cognitive Psychology&lt;/em&gt;! Find it here: 
@@ -526,16 +526,16 @@
     
     <item>
       <title>Phoneme-Grapheme Mapping in Second-Language Learning</title>
-      <link>/project/phoneme-grapheme/</link>
+      <link>https://neurophysicole.com/project/phoneme-grapheme/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/phoneme-grapheme/</guid>
+      <guid>https://neurophysicole.com/project/phoneme-grapheme/</guid>
       <description>&lt;p&gt;Audiovisual (AV) sensory integration is a vital aspect of communication in everyday life. During speech perception, predictive information from the lips is used to amplify the auditory signal (for a really cool demonstration of this effect, search for videos of the McGurk Effect). AV integration is a process that could substantially improve second language (L2) learning, if applied properly. In many instances, L2 students learn from reading words while listening to pronunciations. There is some doubt as to whether written word provides the necessary predictive information to amplify the auditory signal, particularly when the native alphabet doesn’t match the L2 alphabet.&lt;/p&gt;
 &lt;p&gt;In this study, we ran two experiments where native English speakers listened to Spanish words while they were simultaneously presented with the same word spelled according to Spanish or English conventions. In the first experiment, participants were asked to mimic the sound they heard. In the second experiment, the participants were asked to indicated which letter the word started with, and to indicate how confident they were in their response.&lt;/p&gt;
 &lt;p&gt;In these experiments, we found that changing how the words were spelled affected the participants’ hearing. This means that orthographic information can affect auditory processing, and what is really interesting is that this relationship may be predicated on relevant linguistic knowledge.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/cindy-m.-bukach-phd/&#34;&gt;Cindy Bukach, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/cindy-m.-bukach-phd/&#34;&gt;Cindy Bukach, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Lauren Davis&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;project-status&#34;&gt;Project Status&lt;/h2&gt;
@@ -545,23 +545,23 @@
     
     <item>
       <title>Study Time vs. Study Strategy</title>
-      <link>/project/ma_thesis/</link>
+      <link>https://neurophysicole.com/project/ma_thesis/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/ma_thesis/</guid>
+      <guid>https://neurophysicole.com/project/ma_thesis/</guid>
       <description>&lt;p&gt;Time-on-task is often the main concern of individuals planning or reflecting on their preparation an exam. For instance, a teacher may give out recommendations for how long studnets should spend studying for the exma. Or a student may determine that they are prepared by recounting how many hours they spent studying the topic to be examined. The issue with this focus is that task efficiency is often ignored when considering what methods of preparation a student will use to study for the test.&lt;/p&gt;
 &lt;p&gt;At this point, most undergraduates are aware that compared to elaborative study strategies, memorization can be less efficient and effective. Despite understanding this, students still rely very heavily on memorizing and regurgitating facts. It does not help matters that even some of the scientific literature focuses on how memorization is improved with increased time-on-task (while ignoring study strategy). In this vein, my advisor and I 
-&lt;a href=&#34;/author/darrell-l.-butler-phd/&#34;&gt;Dr. Darrell Butler&lt;/a&gt; noticed that some of the learning literature appeared to mischaracterize the cognitive effects of study time. Particularly, we found that students who studied longer performed better on tests were considered by some to have obtained a deeper level of knowledge for the topic-at-had. Now, what is important to understand here is that depth of knowledge is built on associations between a variety of information sources. This means that reading, and re-reading the same source does not necessarily result in a deeper level of knowledge, although it may strengthen the memory for that particular material. This means that, theoretically, a shorter study time could be associated with an increased depth of knowledge.&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/darrell-l.-butler-phd/&#34;&gt;Dr. Darrell Butler&lt;/a&gt; noticed that some of the learning literature appeared to mischaracterize the cognitive effects of study time. Particularly, we found that students who studied longer performed better on tests were considered by some to have obtained a deeper level of knowledge for the topic-at-had. Now, what is important to understand here is that depth of knowledge is built on associations between a variety of information sources. This means that reading, and re-reading the same source does not necessarily result in a deeper level of knowledge, although it may strengthen the memory for that particular material. This means that, theoretically, a shorter study time could be associated with an increased depth of knowledge.&lt;/p&gt;
 &lt;p&gt;To test this theory, and disentangle the effects of study time and study strategy on test performance. To do this, we ran two experiments. In both experiments, participants were given an article to read, flashcards to study, and a test to take. The participants studied either deep or shallow level flashcards. In the first experiment, study time was not controlled. In the second experiment, there was a short study time and long study time group.&lt;/p&gt;
 &lt;p&gt;In the end, we were able to confirm that increased study time and more elaborate (deeper) study strategies improved test performance. Furthermore, these effects were not connected, but rather work independently to improve test performance.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/darrell-l.-butler-phd/&#34;&gt;Darrell Butler, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/darrell-l.-butler-phd/&#34;&gt;Darrell Butler, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;committee-members&#34;&gt;Committee Members&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/kristin-a.-ritchey-phd/&#34;&gt;Kristin Ritchey, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/kristin-a.-ritchey-phd/&#34;&gt;Kristin Ritchey, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Michael Tagler, PhD&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;project-status&#34;&gt;Project Status&lt;/h2&gt;
@@ -572,9 +572,9 @@
     
     <item>
       <title>Testing Conceptual Organization Using Concept Maps</title>
-      <link>/project/concept_mapping/</link>
+      <link>https://neurophysicole.com/project/concept_mapping/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/concept_mapping/</guid>
+      <guid>https://neurophysicole.com/project/concept_mapping/</guid>
       <description>&lt;p&gt;Organization is necessary for understanding complex concepts. Conceptual organization is developed by establishing associative connections between individual concepts. In order to develop these associations, the learner must consider the relationship between concepts. The trouble is, so many college students rely heavily on memorization strategies when studying  (e.g., memorizing flashcards or re-reading notes or materials). While repetitive recitation strategies can improve memory for particular concepts, these memorization techniques do not provide much, if any, relational information. This means that students often concentrate on learning concepts in isolation, but may not fully understand how these concepts are related.&lt;/p&gt;
 &lt;p&gt;Students will generally study to prepare for the demands of the test. As such, tests that require students to exhibit an organizational understanding are used to motivate students to concentrate on organizing learned concepts. To this end, concept maps are becoming an increasingly attractive test format for teachers.&lt;/p&gt;
 &lt;p&gt;Now the tough part: How do you measure organization? In this study, we tested organization by considering connectedness. We did this by accounting for inaccurate connections in the concept map. When two concepts were inaccurately connected, the two concepts were graded as separate, resulting in multiple ‘trees’ in the graded concept map. Graded concept maps with a larger number of trees were considered less connected, and thus exhibited a less organized understanding for the learned material.&lt;/p&gt;
@@ -582,7 +582,7 @@
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/darrell-l.-butler-phd/&#34;&gt;Darrell Butler, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/darrell-l.-butler-phd/&#34;&gt;Darrell Butler, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Richard Ward, PhD Student&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;project-status&#34;&gt;Project Status&lt;/h2&gt;

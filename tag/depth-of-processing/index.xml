@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>depth of processing | NeurophysiCole</title>
-    <link>/tag/depth-of-processing/</link>
-      <atom:link href="/tag/depth-of-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://neurophysicole.com/tag/depth-of-processing/</link>
+      <atom:link href="https://neurophysicole.com/tag/depth-of-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>depth of processing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/npc_logo</url>
+      <url>https://neurophysicole.com/media/npc_logo</url>
       <title>depth of processing</title>
-      <link>/tag/depth-of-processing/</link>
+      <link>https://neurophysicole.com/tag/depth-of-processing/</link>
     </image>
     
     <item>
       <title>Study Time vs. Study Strategy</title>
-      <link>/project/ma_thesis/</link>
+      <link>https://neurophysicole.com/project/ma_thesis/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/ma_thesis/</guid>
+      <guid>https://neurophysicole.com/project/ma_thesis/</guid>
       <description>&lt;p&gt;Time-on-task is often the main concern of individuals planning or reflecting on their preparation an exam. For instance, a teacher may give out recommendations for how long studnets should spend studying for the exma. Or a student may determine that they are prepared by recounting how many hours they spent studying the topic to be examined. The issue with this focus is that task efficiency is often ignored when considering what methods of preparation a student will use to study for the test.&lt;/p&gt;
 &lt;p&gt;At this point, most undergraduates are aware that compared to elaborative study strategies, memorization can be less efficient and effective. Despite understanding this, students still rely very heavily on memorizing and regurgitating facts. It does not help matters that even some of the scientific literature focuses on how memorization is improved with increased time-on-task (while ignoring study strategy). In this vein, my advisor and I 
-&lt;a href=&#34;/author/darrell-l.-butler-phd/&#34;&gt;Dr. Darrell Butler&lt;/a&gt; noticed that some of the learning literature appeared to mischaracterize the cognitive effects of study time. Particularly, we found that students who studied longer performed better on tests were considered by some to have obtained a deeper level of knowledge for the topic-at-had. Now, what is important to understand here is that depth of knowledge is built on associations between a variety of information sources. This means that reading, and re-reading the same source does not necessarily result in a deeper level of knowledge, although it may strengthen the memory for that particular material. This means that, theoretically, a shorter study time could be associated with an increased depth of knowledge.&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/darrell-l.-butler-phd/&#34;&gt;Dr. Darrell Butler&lt;/a&gt; noticed that some of the learning literature appeared to mischaracterize the cognitive effects of study time. Particularly, we found that students who studied longer performed better on tests were considered by some to have obtained a deeper level of knowledge for the topic-at-had. Now, what is important to understand here is that depth of knowledge is built on associations between a variety of information sources. This means that reading, and re-reading the same source does not necessarily result in a deeper level of knowledge, although it may strengthen the memory for that particular material. This means that, theoretically, a shorter study time could be associated with an increased depth of knowledge.&lt;/p&gt;
 &lt;p&gt;To test this theory, and disentangle the effects of study time and study strategy on test performance. To do this, we ran two experiments. In both experiments, participants were given an article to read, flashcards to study, and a test to take. The participants studied either deep or shallow level flashcards. In the first experiment, study time was not controlled. In the second experiment, there was a short study time and long study time group.&lt;/p&gt;
 &lt;p&gt;In the end, we were able to confirm that increased study time and more elaborate (deeper) study strategies improved test performance. Furthermore, these effects were not connected, but rather work independently to improve test performance.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/darrell-l.-butler-phd/&#34;&gt;Darrell Butler, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/darrell-l.-butler-phd/&#34;&gt;Darrell Butler, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;committee-members&#34;&gt;Committee Members&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/kristin-a.-ritchey-phd/&#34;&gt;Kristin Ritchey, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/kristin-a.-ritchey-phd/&#34;&gt;Kristin Ritchey, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Michael Tagler, PhD&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;project-status&#34;&gt;Project Status&lt;/h2&gt;

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>radio | NeurophysiCole</title>
-    <link>/tag/radio/</link>
-      <atom:link href="/tag/radio/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://neurophysicole.com/tag/radio/</link>
+      <atom:link href="https://neurophysicole.com/tag/radio/index.xml" rel="self" type="application/rss+xml" />
     <description>radio</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/npc_logo</url>
+      <url>https://neurophysicole.com/media/npc_logo</url>
       <title>radio</title>
-      <link>/tag/radio/</link>
+      <link>https://neurophysicole.com/tag/radio/</link>
     </image>
     
     <item>
       <title>Radio Interview: Breakfast with Bern Young</title>
-      <link>/news/interview-gc_aussie/</link>
+      <link>https://neurophysicole.com/news/interview-gc_aussie/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/news/interview-gc_aussie/</guid>
+      <guid>https://neurophysicole.com/news/interview-gc_aussie/</guid>
       <description>&lt;p&gt;I was contacted by a radio show in Australia, 
 &lt;a href=&#34;https://www.abc.net.au/radio/goldcoast/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ABC Gold Coast&lt;/a&gt;‘s &amp;ldquo;Breakfast with 
 &lt;a href=&#34;https://www.abc.net.au/radio/people/bern-young/7951830&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bern Young&lt;/a&gt;” morning show. The interview was focused on how music can improve exercise performance and motivation. In particular, I talked to them about our research study 
-&lt;a href=&#34;/project/run_w_music/&#34;&gt;Effects of Listening to Preferential Music on Sex Differences in Endurance Running Performance&lt;/a&gt;, in addition to what other researchers have found regarding the use of music to motivate people to exercise.&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/project/run_w_music/&#34;&gt;Effects of Listening to Preferential Music on Sex Differences in Endurance Running Performance&lt;/a&gt;, in addition to what other researchers have found regarding the use of music to motivate people to exercise.&lt;/p&gt;
 &lt;h2 id=&#34;listen-to-the-interview&#34;&gt;Listen to the Interview!&lt;/h2&gt;
 &lt;p&gt;Listen to the interview 
 &lt;a href=&#34;https://soundcloud.com/abc-gold-coast/breakfast-make-you-sweat-how-can-music-motivate-you&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
 &lt;h2 id=&#34;relevant-project&#34;&gt;Relevant Project&lt;/h2&gt;
 &lt;p&gt;For more information on this topic, checkout our 
-&lt;a href=&#34;/project/run_w_music/&#34;&gt;&lt;strong&gt;project&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://neurophysicole.com/project/run_w_music/&#34;&gt;&lt;strong&gt;project&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

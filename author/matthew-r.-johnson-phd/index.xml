@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthew R. Johnson, PhD | NeurophysiCole</title>
-    <link>/author/matthew-r.-johnson-phd/</link>
-      <atom:link href="/author/matthew-r.-johnson-phd/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://neurophysicole.com/author/matthew-r.-johnson-phd/</link>
+      <atom:link href="https://neurophysicole.com/author/matthew-r.-johnson-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthew R. Johnson, PhD</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
-      <url>/media/npc_logo</url>
+      <url>https://neurophysicole.com/media/npc_logo</url>
       <title>Matthew R. Johnson, PhD</title>
-      <link>/author/matthew-r.-johnson-phd/</link>
+      <link>https://neurophysicole.com/author/matthew-r.-johnson-phd/</link>
     </image>
     
   </channel>

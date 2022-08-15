@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Darrell L. Butler, PhD | NeurophysiCole</title>
-    <link>/author/darrell-l.-butler-phd/</link>
-      <atom:link href="/author/darrell-l.-butler-phd/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://neurophysicole.com/author/darrell-l.-butler-phd/</link>
+      <atom:link href="https://neurophysicole.com/author/darrell-l.-butler-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Darrell L. Butler, PhD</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
-      <url>/media/npc_logo</url>
+      <url>https://neurophysicole.com/media/npc_logo</url>
       <title>Darrell L. Butler, PhD</title>
-      <link>/author/darrell-l.-butler-phd/</link>
+      <link>https://neurophysicole.com/author/darrell-l.-butler-phd/</link>
     </image>
     
   </channel>

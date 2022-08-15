@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>computer science | NeurophysiCole</title>
-    <link>/tag/computer-science/</link>
-      <atom:link href="/tag/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://neurophysicole.com/tag/computer-science/</link>
+      <atom:link href="https://neurophysicole.com/tag/computer-science/index.xml" rel="self" type="application/rss+xml" />
     <description>computer science</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/npc_logo</url>
+      <url>https://neurophysicole.com/media/npc_logo</url>
       <title>computer science</title>
-      <link>/tag/computer-science/</link>
+      <link>https://neurophysicole.com/tag/computer-science/</link>
     </image>
     
     <item>
       <title>Classifying Expertise from Eye Movement Data</title>
-      <link>/project/expertise_eye_tracking/</link>
+      <link>https://neurophysicole.com/project/expertise_eye_tracking/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/expertise_eye_tracking/</guid>
+      <guid>https://neurophysicole.com/project/expertise_eye_tracking/</guid>
       <description>&lt;p&gt;Expertise can be defined by many different criteria. Sometimes there is an absolute threshold for expertise (i.e., certification), and other times expertise is judged in relative terms (i.e., comparing years of experience between two individuals). Being able to define expertise can be useful in numerous situations. Most notably for me, is the potential application of human assistive technology being able to anticipate the type of support individuals will need based on their level of expertise.&lt;/p&gt;
 &lt;p&gt;Take a second to imagine a scenario where you are teaching yourself a skill by participating in automated online computer tutorials. For instance, learning how to program. Now, say the computer is capable of monitoring your eye movements and determining how well you are progressing through the program - not based purely on performance, but based on where you focus your attention externally! Eye movements are one of many behaviors that can signal to the world (in an albeit subtle fashion) what you are thinking about. This kind of technology has the potential to advance the science of learning by highlighting important eye movement features that may be indicative of the cognitive processes relied on by experts. Furthermore, developing human assistive technology in this domain has the potential to improve learning trajectories and advance performance at a level that was possible in the past.&lt;/p&gt;
 &lt;p&gt;All this said, we are still at square one with trying to determine the most effective method for detecting expertise from behavior. Dr. Mike Dodd, Josh Zosky, and I are working in collaboration with computer scientist Dr. Bonita Sharif to determine the best method for determining expertise from the eye movements of programmers actively working to debug computer software.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/michael-d.-dodd-phd/&#34;&gt;Mike Dodd, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/michael-d.-dodd-phd/&#34;&gt;Mike Dodd, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Bonita Sharif, PhD&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;/author/joshua-e.-zosky/&#34;&gt;Josh Zosky&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://neurophysicole.com/author/joshua-e.-zosky/&#34;&gt;Josh Zosky&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
 &lt;p&gt;The manuscript for this project is currently in progress.&lt;/p&gt;
